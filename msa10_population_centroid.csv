@@ -1,0 +1,945 @@
+"cbsa10","cbsaname10","intptlon","intptlat","pop10","afact"
+"CBSA (2010)","2010 CBSA name","Wtd centroid W longitude, degrees","Wtd centroid latitude, degrees","Population (2010)","_us_ to cbsa10 allocation factor"
+"10020","Abbeville, LA Micropolitan Statistical Area",-92.165933,29.993689,57999,0.000188 
+"10100","Aberdeen, SD Micropolitan Statistical Area",-98.519824,45.47537,40602,0.000132 
+"10140","Aberdeen, WA Micropolitan Statistical Area",-123.76767,46.991374,72797,0.000236 
+"10180","Abilene, TX Metropolitan Statistical Area",-99.747195,32.452109,165252,0.000535 
+"10220","Ada, OK Micropolitan Statistical Area",-96.671396,34.773666,37492,0.000121 
+"10300","Adrian, MI Micropolitan Statistical Area",-84.052376,41.925187,99892,0.000324 
+"10420","Akron, OH Metropolitan Statistical Area",-81.457919,41.128225,703200,0.002278 
+"10460","Alamogordo, NM Micropolitan Statistical Area",-105.989321,32.806642,63797,0.000207 
+"10500","Albany, GA Metropolitan Statistical Area",-84.14784,31.593555,157308,0.00051 
+"10540","Albany-Lebanon, OR Micropolitan Statistical Area",-122.959647,44.554622,116672,0.000378 
+"10580","Albany-Schenectady-Troy, NY Metropolitan Statistical Area",-73.819697,42.787795,870716,0.00282 
+"10620","Albemarle, NC Micropolitan Statistical Area",-80.24744,35.321526,60585,0.000196 
+"10660","Albert Lea, MN Micropolitan Statistical Area",-93.361786,43.662564,31255,0.000101 
+"10700","Albertville, AL Micropolitan Statistical Area",-86.293319,34.311975,93019,0.000301 
+"10740","Albuquerque, NM Metropolitan Statistical Area",-106.620656,35.105462,887077,0.002873 
+"10760","Alexander City, AL Micropolitan Statistical Area",-85.927609,32.879734,53155,0.000172 
+"10780","Alexandria, LA Metropolitan Statistical Area",-92.469814,31.320752,153922,0.000499 
+"10820","Alexandria, MN Micropolitan Statistical Area",-95.392006,45.909027,36009,0.000117 
+"10860","Alice, TX Micropolitan Statistical Area",-98.064535,27.751904,40838,0.000132 
+"10880","Allegan, MI Micropolitan Statistical Area",-85.874377,42.603138,111408,0.000361 
+"10900","Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area",-75.391297,40.683247,821173,0.00266 
+"10940","Alma, MI Micropolitan Statistical Area",-84.629375,43.343315,42476,0.000138 
+"10980","Alpena, MI Micropolitan Statistical Area",-83.504451,45.050954,29598,0.000096 
+"11020","Altoona, PA Metropolitan Statistical Area",-78.377158,40.48552,127089,0.000412 
+"11060","Altus, OK Micropolitan Statistical Area",-99.33591,34.653404,26446,0.000086 
+"11100","Amarillo, TX Metropolitan Statistical Area",-101.845933,35.176247,249881,0.000809 
+"11140","Americus, GA Micropolitan Statistical Area",-84.233081,32.084028,37829,0.000123 
+"11180","Ames, IA Metropolitan Statistical Area",-93.601828,42.026371,89542,0.00029 
+"11220","Amsterdam, NY Micropolitan Statistical Area",-74.343076,42.93355,50219,0.000163 
+"11260","Anchorage, AK Metropolitan Statistical Area",-149.706356,61.290161,380821,0.001233 
+"11300","Anderson, IN Metropolitan Statistical Area",-85.708905,40.11412,131636,0.000426 
+"11340","Anderson, SC Metropolitan Statistical Area",-82.618235,34.557506,187126,0.000606 
+"11380","Andrews, TX Micropolitan Statistical Area",-102.542125,32.32166,14786,0.000048 
+"11420","Angola, IN Micropolitan Statistical Area",-85.010658,41.649522,34185,0.000111 
+"11460","Ann Arbor, MI Metropolitan Statistical Area",-83.727176,42.256944,344791,0.001117 
+"11500","Anniston-Oxford, AL Metropolitan Statistical Area",-85.819404,33.72546,118572,0.000384 
+"11540","Appleton, WI Metropolitan Statistical Area",-88.369973,44.274723,225666,0.000731 
+"11580","Arcadia, FL Micropolitan Statistical Area",-81.864074,27.189369,34862,0.000113 
+"11620","Ardmore, OK Micropolitan Statistical Area",-97.199169,34.148338,56980,0.000185 
+"11660","Arkadelphia, AR Micropolitan Statistical Area",-93.124888,34.094705,22995,0.000074 
+"11700","Asheville, NC Metropolitan Statistical Area",-82.589057,35.528291,424858,0.001376 
+"11740","Ashland, OH Micropolitan Statistical Area",-82.285674,40.855218,53139,0.000172 
+"11780","Ashtabula, OH Micropolitan Statistical Area",-80.767505,41.795339,101497,0.000329 
+"11820","Astoria, OR Micropolitan Statistical Area",-123.837395,46.098034,37039,0.00012 
+"11860","Atchison, KS Micropolitan Statistical Area",-95.181473,39.555583,16924,0.000055 
+"11900","Athens, OH Micropolitan Statistical Area",-82.100283,39.345128,64757,0.00021 
+"11940","Athens, TN Micropolitan Statistical Area",-84.598552,35.425632,52266,0.000169 
+"11980","Athens, TX Micropolitan Statistical Area",-95.889784,32.237903,78532,0.000254 
+"12020","Athens-Clarke County, GA Metropolitan Statistical Area",-83.355274,33.95751,192541,0.000624 
+"12060","Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",-84.349319,33.819963,5268860,0.017065 
+"12100","Atlantic City-Hammonton, NJ Metropolitan Statistical Area",-74.583545,39.427563,274549,0.000889 
+"12140","Auburn, IN Micropolitan Statistical Area",-85.034271,41.378215,42223,0.000137 
+"12180","Auburn, NY Micropolitan Statistical Area",-76.560139,42.935371,80026,0.000259 
+"12220","Auburn-Opelika, AL Metropolitan Statistical Area",-85.345889,32.588093,140247,0.000454 
+"12260","Augusta-Richmond County, GA-SC Metropolitan Statistical Area",-82.002959,33.479964,556877,0.001804 
+"12300","Augusta-Waterville, ME Micropolitan Statistical Area",-69.748988,44.396103,122151,0.000396 
+"12380","Austin, MN Micropolitan Statistical Area",-92.898193,43.6651,39163,0.000127 
+"12420","Austin-Round Rock-San Marcos, TX Metropolitan Statistical Area",-97.739188,30.324952,1716289,0.005559 
+"12460","Bainbridge, GA Micropolitan Statistical Area",-84.570361,30.888346,27842,0.00009 
+"12540","Bakersfield-Delano, CA Metropolitan Statistical Area",-118.936207,35.372968,839631,0.002719 
+"12580","Baltimore-Towson, MD Metropolitan Statistical Area",-76.62769,39.298383,2710489,0.008779 
+"12620","Bangor, ME Metropolitan Statistical Area",-68.793837,44.953036,153923,0.000499 
+"12660","Baraboo, WI Micropolitan Statistical Area",-89.869622,43.446515,61976,0.000201 
+"12700","Barnstable Town, MA Metropolitan Statistical Area",-70.333834,41.690217,215888,0.000699 
+"12740","Barre, VT Micropolitan Statistical Area",-72.583886,44.241925,59534,0.000193 
+"12780","Bartlesville, OK Micropolitan Statistical Area",-95.938605,36.729169,50976,0.000165 
+"12820","Bastrop, LA Micropolitan Statistical Area",-91.88615,32.786393,27979,0.000091 
+"12860","Batavia, NY Micropolitan Statistical Area",-78.173087,42.999625,60079,0.000195 
+"12900","Batesville, AR Micropolitan Statistical Area",-91.607538,35.749802,36647,0.000119 
+"12940","Baton Rouge, LA Metropolitan Statistical Area",-91.058822,30.45684,802484,0.002599 
+"12980","Battle Creek, MI Metropolitan Statistical Area",-85.10189,42.289509,136146,0.000441 
+"13020","Bay City, MI Metropolitan Statistical Area",-83.928441,43.630575,107771,0.000349 
+"13060","Bay City, TX Micropolitan Statistical Area",-96.00282,28.915316,36702,0.000119 
+"13100","Beatrice, NE Micropolitan Statistical Area",-96.714125,40.274483,22311,0.000072 
+"13140","Beaumont-Port Arthur, TX Metropolitan Statistical Area",-94.053411,30.076777,388745,0.001259 
+"13180","Beaver Dam, WI Micropolitan Statistical Area",-88.712369,43.434231,88759,0.000287 
+"13220","Beckley, WV Micropolitan Statistical Area",-81.203024,37.770284,78859,0.000255 
+"13260","Bedford, IN Micropolitan Statistical Area",-86.495731,38.846386,46134,0.000149 
+"13300","Beeville, TX Micropolitan Statistical Area",-97.736928,28.396656,31861,0.000103 
+"13340","Bellefontaine, OH Micropolitan Statistical Area",-83.779502,40.383677,45858,0.000149 
+"13380","Bellingham, WA Metropolitan Statistical Area",-122.485377,48.820553,201140,0.000651 
+"13420","Bemidji, MN Micropolitan Statistical Area",-94.863079,47.591009,44442,0.000144 
+"13460","Bend, OR Metropolitan Statistical Area",-121.305498,44.092071,157733,0.000511 
+"13500","Bennettsville, SC Micropolitan Statistical Area",-79.670666,34.635884,28933,0.000094 
+"13540","Bennington, VT Micropolitan Statistical Area",-73.153401,42.972541,37125,0.00012 
+"13620","Berlin, NH-VT Micropolitan Statistical Area",-71.423328,44.568785,39361,0.000127 
+"13660","Big Rapids, MI Micropolitan Statistical Area",-85.388851,43.653563,42798,0.000139 
+"13700","Big Spring, TX Micropolitan Statistical Area",-101.464982,32.242066,35012,0.000113 
+"13740","Billings, MT Metropolitan Statistical Area",-108.574062,45.761351,158050,0.000512 
+"13780","Binghamton, NY Metropolitan Statistical Area",-76.007945,42.12124,251725,0.000815 
+"13820","Birmingham-Hoover, AL Metropolitan Statistical Area",-86.784542,33.495986,1128047,0.003654 
+"13860","Bishop, CA Micropolitan Statistical Area",-118.268979,37.160248,18546,0.00006 
+"13900","Bismarck, ND Metropolitan Statistical Area",-100.824628,46.821998,108779,0.000352 
+"13940","Blackfoot, ID Micropolitan Statistical Area",-112.355402,43.217372,45607,0.000148 
+"13980","Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",-80.52218,37.173937,162958,0.000528 
+"14020","Bloomington, IN Metropolitan Statistical Area",-86.645265,39.160949,192714,0.000624 
+"14060","Bloomington-Normal, IL Metropolitan Statistical Area",-88.954967,40.494124,169572,0.000549 
+"14100","Bloomsburg-Berwick, PA Micropolitan Statistical Area",-76.442003,41.029029,85562,0.000277 
+"14140","Bluefield, WV-VA Micropolitan Statistical Area",-81.319507,37.26641,107342,0.000348 
+"14180","Blytheville, AR Micropolitan Statistical Area",-89.998969,35.84288,46480,0.000151 
+"14220","Bogalusa, LA Micropolitan Statistical Area",-89.996212,30.835918,47168,0.000153 
+"14260","Boise City-Nampa, ID Metropolitan Statistical Area",-116.412399,43.617577,616561,0.001997 
+"14300","Bonham, TX Micropolitan Statistical Area",-96.175902,33.561546,33915,0.00011 
+"14340","Boone, IA Micropolitan Statistical Area",-93.895174,42.026495,26306,0.000085 
+"14380","Boone, NC Micropolitan Statistical Area",-81.685488,36.220299,51079,0.000165 
+"14420","Borger, TX Micropolitan Statistical Area",-101.44883,35.6807,22150,0.000072 
+"14460","Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",-71.106145,42.430164,4552402,0.014745 
+"14500","Boulder, CO Metropolitan Statistical Area",-105.183938,40.063299,294567,0.000954 
+"14540","Bowling Green, KY Metropolitan Statistical Area",-86.41725,36.992254,125953,0.000408 
+"14580","Bozeman, MT Micropolitan Statistical Area",-111.12835,45.682805,89513,0.00029 
+"14620","Bradford, PA Micropolitan Statistical Area",-78.583113,41.865309,43450,0.000141 
+"14660","Brainerd, MN Micropolitan Statistical Area",-94.239446,46.550891,91067,0.000295 
+"14700","Branson, MO Micropolitan Statistical Area",-93.285369,36.680087,83877,0.000272 
+"14740","Bremerton-Silverdale, WA Metropolitan Statistical Area",-122.632773,47.613056,251133,0.000813 
+"14780","Brenham, TX Micropolitan Statistical Area",-96.396254,30.182709,33718,0.000109 
+"14820","Brevard, NC Micropolitan Statistical Area",-82.745474,35.2102,33090,0.000107 
+"14860","Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area",-73.364439,41.207889,916829,0.00297 
+"14940","Brigham City, UT Micropolitan Statistical Area",-112.099947,41.591027,49975,0.000162 
+"15020","Brookhaven, MS Micropolitan Statistical Area",-90.456282,31.550891,34869,0.000113 
+"15060","Brookings, OR Micropolitan Statistical Area",-124.328871,42.249909,22364,0.000072 
+"15100","Brookings, SD Micropolitan Statistical Area",-96.786845,44.312257,31965,0.000104 
+"15140","Brownsville, TN Micropolitan Statistical Area",-89.267289,35.586187,18787,0.000061 
+"15180","Brownsville-Harlingen, TX Metropolitan Statistical Area",-97.557094,26.045736,406220,0.001316 
+"15220","Brownwood, TX Micropolitan Statistical Area",-98.989458,31.731622,38106,0.000123 
+"15260","Brunswick, GA Metropolitan Statistical Area",-81.555633,31.23975,112370,0.000364 
+"15340","Bucyrus, OH Micropolitan Statistical Area",-82.874813,40.797377,43784,0.000142 
+"15380","Buffalo-Niagara Falls, NY Metropolitan Statistical Area",-78.803923,42.936227,1135509,0.003678 
+"15420","Burley, ID Micropolitan Statistical Area",-113.728034,42.543657,43021,0.000139 
+"15460","Burlington, IA-IL Micropolitan Statistical Area",-91.111237,40.832805,47656,0.000154 
+"15500","Burlington, NC Metropolitan Statistical Area",-79.414201,36.071263,151131,0.000489 
+"15540","Burlington-South Burlington, VT Metropolitan Statistical Area",-73.119038,44.57247,211261,0.000684 
+"15580","Butte-Silver Bow, MT Micropolitan Statistical Area",-112.52436,45.98796,34200,0.000111 
+"15620","Cadillac, MI Micropolitan Statistical Area",-85.390094,44.307103,47584,0.000154 
+"15660","Calhoun, GA Micropolitan Statistical Area",-84.908795,34.498327,55186,0.000179 
+"15700","Cambridge, MD Micropolitan Statistical Area",-76.0097,38.570624,32618,0.000106 
+"15740","Cambridge, OH Micropolitan Statistical Area",-81.541812,40.016789,40087,0.00013 
+"15780","Camden, AR Micropolitan Statistical Area",-92.780306,33.5773,31488,0.000102 
+"15820","Campbellsville, KY Micropolitan Statistical Area",-85.343426,37.350402,24512,0.000079 
+"15860","Cañon City, CO Micropolitan Statistical Area",-105.206539,38.426059,46824,0.000152 
+"15900","Canton, IL Micropolitan Statistical Area",-90.119235,40.521964,37069,0.00012 
+"15940","Canton-Massillon, OH Metropolitan Statistical Area",-81.367724,40.820707,404422,0.00131 
+"15980","Cape Coral-Fort Myers, FL Metropolitan Statistical Area",-81.858159,26.574993,618754,0.002004 
+"16020","Cape Girardeau-Jackson, MO-IL Metropolitan Statistical Area",-89.629537,37.334373,96275,0.000312 
+"16060","Carbondale, IL Micropolitan Statistical Area",-89.274067,37.747793,60218,0.000195 
+"16100","Carlsbad-Artesia, NM Micropolitan Statistical Area",-104.291596,32.547602,53829,0.000174 
+"16180","Carson City, NV Metropolitan Statistical Area",-119.753712,39.166135,55274,0.000179 
+"16220","Casper, WY Metropolitan Statistical Area",-106.336867,42.844218,75450,0.000244 
+"16260","Cedar City, UT Micropolitan Statistical Area",-113.073793,37.709162,46163,0.00015 
+"16300","Cedar Rapids, IA Metropolitan Statistical Area",-91.648766,42.025077,257940,0.000835 
+"16340","Cedartown, GA Micropolitan Statistical Area",-85.176768,34.010879,41475,0.000134 
+"16380","Celina, OH Micropolitan Statistical Area",-84.608358,40.517287,40814,0.000132 
+"16420","Central City, KY Micropolitan Statistical Area",-87.147061,37.238091,31499,0.000102 
+"16460","Centralia, IL Micropolitan Statistical Area",-89.016907,38.590711,39437,0.000128 
+"16500","Centralia, WA Micropolitan Statistical Area",-122.832656,46.617975,75455,0.000244 
+"16540","Chambersburg, PA Micropolitan Statistical Area",-77.656242,39.88274,149618,0.000485 
+"16580","Champaign-Urbana, IL Metropolitan Statistical Area",-88.257269,40.143589,231891,0.000751 
+"16620","Charleston, WV Metropolitan Statistical Area",-81.72354,38.34945,304284,0.000986 
+"16660","Charleston-Mattoon, IL Micropolitan Statistical Area",-88.262114,39.451334,64921,0.00021 
+"16700","Charleston-North Charleston-Summerville, SC Metropolitan Statistical Area",-80.042555,32.92502,664607,0.002153 
+"16740","Charlotte-Gastonia-Rock Hill, NC-SC Metropolitan Statistical Area",-80.833968,35.189623,1758038,0.005694 
+"16820","Charlottesville, VA Metropolitan Statistical Area",-78.501532,38.026679,201559,0.000653 
+"16860","Chattanooga, TN-GA Metropolitan Statistical Area",-85.248244,35.041153,528143,0.001711 
+"16900","Chester, SC Micropolitan Statistical Area",-81.119764,34.702762,33140,0.000107 
+"16940","Cheyenne, WY Metropolitan Statistical Area",-104.773195,41.153226,91738,0.000297 
+"16980","Chicago-Joliet-Naperville, IL-IN-WI Metropolitan Statistical Area",-87.867975,41.872023,9461105,0.030644 
+"17020","Chico, CA Metropolitan Statistical Area",-121.707783,39.669038,220000,0.000713 
+"17060","Chillicothe, OH Micropolitan Statistical Area",-83.022097,39.340682,78064,0.000253 
+"17140","Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",-84.466734,39.191406,2130151,0.006899 
+"17200","Claremont, NH Micropolitan Statistical Area",-72.259307,43.367422,43742,0.000142 
+"17220","Clarksburg, WV Micropolitan Statistical Area",-80.326165,39.296751,94196,0.000305 
+"17260","Clarksdale, MS Micropolitan Statistical Area",-90.569852,34.222427,26151,0.000085 
+"17300","Clarksville, TN-KY Metropolitan Statistical Area",-87.433741,36.634329,273949,0.000887 
+"17340","Clearlake, CA Micropolitan Statistical Area",-122.734745,38.973362,64665,0.000209 
+"17380","Cleveland, MS Micropolitan Statistical Area",-90.775346,33.77228,34145,0.000111 
+"17420","Cleveland, TN Metropolitan Statistical Area",-84.816716,35.16015,115788,0.000375 
+"17460","Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area",-81.692964,41.443568,2077240,0.006728 
+"17500","Clewiston, FL Micropolitan Statistical Area",-81.20258,26.705393,39140,0.000127 
+"17540","Clinton, IA Micropolitan Statistical Area",-90.335758,41.852707,49116,0.000159 
+"17580","Clovis, NM Micropolitan Statistical Area",-103.215712,34.4201,48376,0.000157 
+"17660","Coeur dAlene, ID Metropolitan Statistical Area",-116.832578,47.73713,138494,0.000449 
+"17700","Coffeyville, KS Micropolitan Statistical Area",-95.69532,37.139983,35471,0.000115 
+"17740","Coldwater, MI Micropolitan Statistical Area",-85.031769,41.929764,45248,0.000147 
+"17780","College Station-Bryan, TX Metropolitan Statistical Area",-96.370075,30.642468,228660,0.000741 
+"17820","Colorado Springs, CO Metropolitan Statistical Area",-104.7723,38.876197,645613,0.002091 
+"17860","Columbia, MO Metropolitan Statistical Area",-92.344062,38.970402,172786,0.00056 
+"17900","Columbia, SC Metropolitan Statistical Area",-81.054802,34.041832,767598,0.002486 
+"17940","Columbia, TN Micropolitan Statistical Area",-87.045632,35.623,80956,0.000262 
+"17980","Columbus, GA-AL Metropolitan Statistical Area",-84.937236,32.493254,294865,0.000955 
+"18020","Columbus, IN Metropolitan Statistical Area",-85.902784,39.216785,76794,0.000249 
+"18060","Columbus, MS Micropolitan Statistical Area",-88.392678,33.515352,59779,0.000194 
+"18100","Columbus, NE Micropolitan Statistical Area",-97.387469,41.469014,32237,0.000104 
+"18140","Columbus, OH Metropolitan Statistical Area",-82.941436,40.01385,1836536,0.005948 
+"18180","Concord, NH Micropolitan Statistical Area",-71.586367,43.246442,146445,0.000474 
+"18220","Connersville, IN Micropolitan Statistical Area",-85.147497,39.640791,24277,0.000079 
+"18260","Cookeville, TN Micropolitan Statistical Area",-85.479442,36.220182,106042,0.000343 
+"18300","Coos Bay, OR Micropolitan Statistical Area",-124.231236,43.305344,63043,0.000204 
+"18340","Corbin, KY Micropolitan Statistical Area",-84.141005,36.809692,35637,0.000115 
+"18380","Cordele, GA Micropolitan Statistical Area",-83.777788,31.947963,23439,0.000076 
+"18420","Corinth, MS Micropolitan Statistical Area",-88.531064,34.908785,37057,0.00012 
+"18460","Cornelia, GA Micropolitan Statistical Area",-83.541609,34.56516,43041,0.000139 
+"18500","Corning, NY Micropolitan Statistical Area",-77.320604,42.266288,98990,0.000321 
+"18580","Corpus Christi, TX Metropolitan Statistical Area",-97.406075,27.782034,428185,0.001387 
+"18620","Corsicana, TX Micropolitan Statistical Area",-96.48862,32.079813,47735,0.000155 
+"18660","Cortland, NY Micropolitan Statistical Area",-76.145493,42.59613,49336,0.00016 
+"18700","Corvallis, OR Metropolitan Statistical Area",-123.278923,44.571182,85579,0.000277 
+"18740","Coshocton, OH Micropolitan Statistical Area",-81.865122,40.290804,36901,0.00012 
+"18820","Crawfordsville, IN Micropolitan Statistical Area",-86.900065,40.035111,38124,0.000123 
+"18860","Crescent City, CA Micropolitan Statistical Area",-124.163098,41.791232,28610,0.000093 
+"18880","Crestview-Fort Walton Beach-Destin, FL Metropolitan Statistical Area",-86.567095,30.542829,180822,0.000586 
+"18900","Crossville, TN Micropolitan Statistical Area",-85.020113,35.954566,56053,0.000182 
+"18940","Crowley, LA Micropolitan Statistical Area",-92.351781,30.278556,61773,0.0002 
+"18980","Cullman, AL Micropolitan Statistical Area",-86.831816,34.162363,80406,0.00026 
+"19020","Culpeper, VA Micropolitan Statistical Area",-77.997838,38.500155,46689,0.000151 
+"19060","Cumberland, MD-WV Metropolitan Statistical Area",-78.84615,39.584383,103299,0.000335 
+"19100","Dallas-Fort Worth-Arlington, TX Metropolitan Statistical Area",-96.946984,32.850741,6371773,0.020638 
+"19140","Dalton, GA Metropolitan Statistical Area",-84.917304,34.789841,142227,0.000461 
+"19180","Danville, IL Metropolitan Statistical Area",-87.654819,40.149683,81625,0.000264 
+"19220","Danville, KY Micropolitan Statistical Area",-84.739186,37.560093,53174,0.000172 
+"19260","Danville, VA Metropolitan Statistical Area",-79.409681,36.698968,106561,0.000345 
+"19300","Daphne-Fairhope-Foley, AL Micropolitan Statistical Area",-87.762466,30.548923,182265,0.00059 
+"19340","Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area",-90.490598,41.490778,379690,0.00123 
+"19380","Dayton, OH Metropolitan Statistical Area",-84.191344,39.778875,841502,0.002726 
+"19460","Decatur, AL Metropolitan Statistical Area",-87.007087,34.520822,153829,0.000498 
+"19500","Decatur, IL Metropolitan Statistical Area",-88.947074,39.851176,110768,0.000359 
+"19540","Decatur, IN Micropolitan Statistical Area",-84.934313,40.753767,34387,0.000111 
+"19580","Defiance, OH Micropolitan Statistical Area",-84.449121,41.295399,39037,0.000126 
+"19620","Del Rio, TX Micropolitan Statistical Area",-100.898088,29.38073,48879,0.000158 
+"19660","Deltona-Daytona Beach-Ormond Beach, FL Metropolitan Statistical Area",-81.123881,29.073726,494593,0.001602 
+"19700","Deming, NM Micropolitan Statistical Area",-107.740444,32.217488,25095,0.000081 
+"19740","Denver-Aurora-Broomfield, CO Metropolitan Statistical Area",-104.959472,39.703967,2543482,0.008238 
+"19760","DeRidder, LA Micropolitan Statistical Area",-93.287121,30.733885,35654,0.000115 
+"19780","Des Moines-West Des Moines, IA Metropolitan Statistical Area",-93.694793,41.601078,569633,0.001845 
+"19820","Detroit-Warren-Livonia, MI Metropolitan Statistical Area",-83.195596,42.500767,4296250,0.013915 
+"19860","Dickinson, ND Micropolitan Statistical Area",-102.801475,46.884034,24982,0.000081 
+"19900","Dillon, SC Micropolitan Statistical Area",-79.359951,34.394711,32062,0.000104 
+"19940","Dixon, IL Micropolitan Statistical Area",-89.398295,41.810243,36031,0.000117 
+"19980","Dodge City, KS Micropolitan Statistical Area",-99.994867,37.751112,33848,0.00011 
+"20020","Dothan, AL Metropolitan Statistical Area",-85.449825,31.216819,145639,0.000472 
+"20060","Douglas, GA Micropolitan Statistical Area",-82.848221,31.483198,50731,0.000164 
+"20100","Dover, DE Metropolitan Statistical Area",-75.558641,39.12322,162310,0.000526 
+"20140","Dublin, GA Micropolitan Statistical Area",-82.883996,32.548045,58414,0.000189 
+"20180","DuBois, PA Micropolitan Statistical Area",-78.495977,40.988405,81642,0.000264 
+"20220","Dubuque, IA Metropolitan Statistical Area",-90.759885,42.493726,93653,0.000303 
+"20260","Duluth, MN-WI Metropolitan Statistical Area",-92.29416,46.957867,279771,0.000906 
+"20300","Dumas, TX Micropolitan Statistical Area",-101.956196,35.904749,21904,0.000071 
+"20340","Duncan, OK Micropolitan Statistical Area",-97.945597,34.517163,45048,0.000146 
+"20380","Dunn, NC Micropolitan Statistical Area",-78.847033,35.359863,114678,0.000371 
+"20420","Durango, CO Micropolitan Statistical Area",-107.806198,37.265199,51334,0.000166 
+"20460","Durant, OK Micropolitan Statistical Area",-96.383796,33.977295,42416,0.000137 
+"20500","Durham-Chapel Hill, NC Metropolitan Statistical Area",-78.999292,35.985912,504357,0.001634 
+"20540","Dyersburg, TN Micropolitan Statistical Area",-89.359369,36.058798,38335,0.000124 
+"20580","Eagle Pass, TX Micropolitan Statistical Area",-100.481016,28.70947,54258,0.000176 
+"20620","East Liverpool-Salem, OH Micropolitan Statistical Area",-80.730371,40.777775,107841,0.000349 
+"20660","Easton, MD Micropolitan Statistical Area",-76.098116,38.769665,37782,0.000122 
+"20700","East Stroudsburg, PA Micropolitan Statistical Area",-75.308175,41.037308,169842,0.00055 
+"20740","Eau Claire, WI Metropolitan Statistical Area",-91.405559,44.866393,161151,0.000522 
+"20780","Edwards, CO Micropolitan Statistical Area",-106.667284,39.556019,59507,0.000193 
+"20820","Effingham, IL Micropolitan Statistical Area",-88.576023,39.094724,34242,0.000111 
+"20900","El Campo, TX Micropolitan Statistical Area",-96.175589,29.276822,41280,0.000134 
+"20940","El Centro, CA Metropolitan Statistical Area",-115.534587,32.841102,174528,0.000565 
+"20980","El Dorado, AR Micropolitan Statistical Area",-92.645117,33.20687,41639,0.000135 
+"21020","Elizabeth City, NC Micropolitan Statistical Area",-76.275227,36.280722,64094,0.000208 
+"21060","Elizabethtown, KY Metropolitan Statistical Area",-85.894097,37.722192,119736,0.000388 
+"21120","Elk City, OK Micropolitan Statistical Area",-99.512386,35.361391,22119,0.000072 
+"21140","Elkhart-Goshen, IN Metropolitan Statistical Area",-85.906755,41.63768,197559,0.00064 
+"21220","Elko, NV Micropolitan Statistical Area",-115.543114,40.831641,50805,0.000165 
+"21260","Ellensburg, WA Micropolitan Statistical Area",-120.624252,47.047742,40915,0.000133 
+"21300","Elmira, NY Metropolitan Statistical Area",-76.813054,42.118263,88830,0.000288 
+"21340","El Paso, TX Metropolitan Statistical Area",-106.376011,31.782046,800647,0.002593 
+"21380","Emporia, KS Micropolitan Statistical Area",-96.20881,38.411733,36480,0.000118 
+"21420","Enid, OK Micropolitan Statistical Area",-97.883789,36.398165,60580,0.000196 
+"21460","Enterprise-Ozark, AL Micropolitan Statistical Area",-85.772601,31.368933,100199,0.000325 
+"21500","Erie, PA Metropolitan Statistical Area",-80.071687,42.068054,280566,0.000909 
+"21540","Escanaba, MI Micropolitan Statistical Area",-87.06633,45.802381,37069,0.00012 
+"21580","Espanola, NM Micropolitan Statistical Area",-106.205854,36.201002,40246,0.00013 
+"21640","Eufaula, AL-GA Micropolitan Statistical Area",-85.290459,31.845323,29970,0.000097 
+"21660","Eugene-Springfield, OR Metropolitan Statistical Area",-123.117386,44.038338,351715,0.001139 
+"21700","Eureka-Arcata-Fortuna, CA Micropolitan Statistical Area",-124.087225,40.752982,134623,0.000436 
+"21740","Evanston, WY Micropolitan Statistical Area",-110.767448,41.271861,21118,0.000068 
+"21780","Evansville, IN-KY Metropolitan Statistical Area",-87.54452,37.987603,358676,0.001162 
+"21820","Fairbanks, AK Metropolitan Statistical Area",-147.624384,64.831553,97581,0.000316 
+"21860","Fairmont, MN Micropolitan Statistical Area",-94.511491,43.665285,20840,0.000067 
+"21900","Fairmont, WV Micropolitan Statistical Area",-80.181628,39.48613,56418,0.000183 
+"21980","Fallon, NV Micropolitan Statistical Area",-118.795672,39.473584,24877,0.000081 
+"22020","Fargo, ND-MN Metropolitan Statistical Area",-96.808021,46.859798,208777,0.000676 
+"22060","Faribault-Northfield, MN Micropolitan Statistical Area",-93.260329,44.370592,64142,0.000208 
+"22100","Farmington, MO Micropolitan Statistical Area",-90.492287,37.835574,65359,0.000212 
+"22140","Farmington, NM Metropolitan Statistical Area",-108.220504,36.72194,130044,0.000421 
+"22180","Fayetteville, NC Metropolitan Statistical Area",-78.967022,35.047924,366383,0.001187 
+"22220","Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area",-94.19716,36.23541,463204,0.0015 
+"22260","Fergus Falls, MN Micropolitan Statistical Area",-95.793449,46.405066,57303,0.000186 
+"22280","Fernley, NV Micropolitan Statistical Area",-119.325023,39.34878,51980,0.000168 
+"22300","Findlay, OH Micropolitan Statistical Area",-83.641926,41.039056,74782,0.000242 
+"22340","Fitzgerald, GA Micropolitan Statistical Area",-83.259945,31.684466,27172,0.000088 
+"22380","Flagstaff, AZ Metropolitan Statistical Area",-111.58947,35.514426,134421,0.000435 
+"22420","Flint, MI Metropolitan Statistical Area",-83.69473,43.006414,425790,0.001379 
+"22500","Florence, SC Metropolitan Statistical Area",-79.835461,34.175818,205566,0.000666 
+"22520","Florence-Muscle Shoals, AL Metropolitan Statistical Area",-87.637013,34.813358,147137,0.000477 
+"22540","Fond du Lac, WI Metropolitan Statistical Area",-88.486927,43.76493,101633,0.000329 
+"22580","Forest City, NC Micropolitan Statistical Area",-81.895017,35.348446,67810,0.00022 
+"22620","Forrest City, AR Micropolitan Statistical Area",-90.770295,35.015313,28258,0.000092 
+"22660","Fort Collins-Loveland, CO Metropolitan Statistical Area",-105.09919,40.504547,299630,0.00097 
+"22700","Fort Dodge, IA Micropolitan Statistical Area",-94.179073,42.480374,38013,0.000123 
+"22780","Fort Leonard Wood, MO Micropolitan Statistical Area",-92.177309,37.824258,52274,0.000169 
+"22800","Fort Madison-Keokuk, IA-MO Micropolitan Statistical Area",-91.447445,40.534414,43001,0.000139 
+"22820","Fort Morgan, CO Micropolitan Statistical Area",-103.781504,40.256024,28159,0.000091 
+"22840","Fort Payne, AL Micropolitan Statistical Area",-85.817037,34.455111,71109,0.00023 
+"22860","Fort Polk South, LA Micropolitan Statistical Area",-93.245843,31.094949,52334,0.00017 
+"22900","Fort Smith, AR-OK Metropolitan Statistical Area",-94.413527,35.341089,298592,0.000967 
+"22980","Fort Valley, GA Micropolitan Statistical Area",-83.82955,32.584826,27695,0.00009 
+"23060","Fort Wayne, IN Metropolitan Statistical Area",-85.15558,41.082034,416257,0.001348 
+"23140","Frankfort, IN Micropolitan Statistical Area",-86.512323,40.298201,33224,0.000108 
+"23180","Frankfort, KY Micropolitan Statistical Area",-84.884389,38.145161,70706,0.000229 
+"23240","Fredericksburg, TX Micropolitan Statistical Area",-98.90577,30.272525,24837,0.00008 
+"23300","Freeport, IL Micropolitan Statistical Area",-89.644536,42.324139,47711,0.000155 
+"23340","Fremont, NE Micropolitan Statistical Area",-96.530705,41.473485,36691,0.000119 
+"23380","Fremont, OH Micropolitan Statistical Area",-83.102017,41.341058,60944,0.000197 
+"23420","Fresno, CA Metropolitan Statistical Area",-119.767821,36.738919,930450,0.003014 
+"23460","Gadsden, AL Metropolitan Statistical Area",-86.025408,34.013693,104430,0.000338 
+"23500","Gaffney, SC Micropolitan Statistical Area",-81.64701,35.080073,55342,0.000179 
+"23540","Gainesville, FL Metropolitan Statistical Area",-82.41387,29.668386,264275,0.000856 
+"23580","Gainesville, GA Metropolitan Statistical Area",-83.844688,34.275206,179684,0.000582 
+"23620","Gainesville, TX Micropolitan Statistical Area",-97.137068,33.610425,38437,0.000124 
+"23660","Galesburg, IL Micropolitan Statistical Area",-90.405765,40.925401,70626,0.000229 
+"23700","Gallup, NM Micropolitan Statistical Area",-108.634045,35.511504,71492,0.000232 
+"23780","Garden City, KS Micropolitan Statistical Area",-100.86582,37.97733,36776,0.000119 
+"23820","Gardnerville Ranchos, NV Micropolitan Statistical Area",-119.755984,38.956913,46997,0.000152 
+"23860","Georgetown, SC Micropolitan Statistical Area",-79.269346,33.453335,60158,0.000195 
+"23900","Gettysburg, PA Micropolitan Statistical Area",-77.158635,39.851864,101407,0.000328 
+"23940","Gillette, WY Micropolitan Statistical Area",-105.494899,44.254397,46133,0.000149 
+"23980","Glasgow, KY Micropolitan Statistical Area",-85.875745,36.995623,52272,0.000169 
+"24020","Glens Falls, NY Metropolitan Statistical Area",-73.589167,43.344655,128923,0.000418 
+"24100","Gloversville, NY Micropolitan Statistical Area",-74.330335,43.059173,55531,0.00018 
+"24140","Goldsboro, NC Metropolitan Statistical Area",-77.988446,35.370731,122623,0.000397 
+"24180","Granbury, TX Micropolitan Statistical Area",-97.763865,32.405196,59672,0.000193 
+"24220","Grand Forks, ND-MN Metropolitan Statistical Area",-96.938378,47.866825,98461,0.000319 
+"24260","Grand Island, NE Micropolitan Statistical Area",-98.351033,40.962489,72726,0.000236 
+"24300","Grand Junction, CO Metropolitan Statistical Area",-108.54378,39.092852,146723,0.000475 
+"24340","Grand Rapids-Wyoming, MI Metropolitan Statistical Area",-85.571652,42.967992,774160,0.002507 
+"24380","Grants, NM Micropolitan Statistical Area",-107.804576,35.113977,27213,0.000088 
+"24420","Grants Pass, OR Micropolitan Statistical Area",-123.386702,42.404127,82713,0.000268 
+"24460","Great Bend, KS Micropolitan Statistical Area",-98.757734,38.394739,27674,0.00009 
+"24500","Great Falls, MT Metropolitan Statistical Area",-111.306255,47.491839,81327,0.000263 
+"24540","Greeley, CO Metropolitan Statistical Area",-104.788372,40.328083,252825,0.000819 
+"24580","Green Bay, WI Metropolitan Statistical Area",-88.016456,44.548513,306241,0.000992 
+"24620","Greeneville, TN Micropolitan Statistical Area",-82.833435,36.177294,68831,0.000223 
+"24660","Greensboro-High Point, NC Metropolitan Statistical Area",-79.835832,36.050277,723801,0.002344 
+"24700","Greensburg, IN Micropolitan Statistical Area",-85.494183,39.319976,25740,0.000083 
+"24740","Greenville, MS Micropolitan Statistical Area",-91.010985,33.371081,51137,0.000166 
+"24780","Greenville, NC Metropolitan Statistical Area",-77.413688,35.566727,189510,0.000614 
+"24820","Greenville, OH Micropolitan Statistical Area",-84.60821,40.115612,52959,0.000172 
+"24860","Greenville-Mauldin-Easley, SC Metropolitan Statistical Area",-82.368908,34.804691,636986,0.002063 
+"24900","Greenwood, MS Micropolitan Statistical Area",-90.1373,33.499572,42914,0.000139 
+"24940","Greenwood, SC Micropolitan Statistical Area",-82.148613,34.204262,69661,0.000226 
+"24980","Grenada, MS Micropolitan Statistical Area",-89.802798,33.768122,21906,0.000071 
+"25060","Gulfport-Biloxi, MS Metropolitan Statistical Area",-89.129381,30.45038,248820,0.000806 
+"25100","Guymon, OK Micropolitan Statistical Area",-101.449744,36.71352,20640,0.000067 
+"25180","Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area",-77.860631,39.553075,269140,0.000872 
+"25220","Hammond, LA Micropolitan Statistical Area",-90.455523,30.571612,121097,0.000392 
+"25260","Hanford-Corcoran, CA Metropolitan Statistical Area",-119.728977,36.24275,152982,0.000495 
+"25300","Hannibal, MO Micropolitan Statistical Area",-91.459068,39.69872,38948,0.000126 
+"25340","Harriman, TN Micropolitan Statistical Area",-84.524091,35.882073,54181,0.000175 
+"25380","Harrisburg, IL Micropolitan Statistical Area",-88.536373,37.754787,24913,0.000081 
+"25420","Harrisburg-Carlisle, PA Metropolitan Statistical Area",-76.956084,40.271759,549475,0.00178 
+"25460","Harrison, AR Micropolitan Statistical Area",-93.112441,36.215768,45233,0.000147 
+"25500","Harrisonburg, VA Metropolitan Statistical Area",-78.849569,38.449296,125228,0.000406 
+"25540","Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area",-72.653838,41.733397,1212381,0.003927 
+"25580","Hastings, NE Micropolitan Statistical Area",-98.348105,40.577153,37906,0.000123 
+"25620","Hattiesburg, MS Metropolitan Statistical Area",-89.321286,31.287587,142842,0.000463 
+"25660","Havre, MT Micropolitan Statistical Area",-109.762814,48.515787,16096,0.000052 
+"25700","Hays, KS Micropolitan Statistical Area",-99.330011,38.88156,28452,0.000092 
+"25720","Heber, UT Micropolitan Statistical Area",-111.412253,40.505697,23530,0.000076 
+"25740","Helena, MT Micropolitan Statistical Area",-112.026784,46.585198,74801,0.000242 
+"25760","Helena-West Helena, AR Micropolitan Statistical Area",-90.707768,34.529768,21757,0.00007 
+"25780","Henderson, NC Micropolitan Statistical Area",-78.402099,36.331178,45422,0.000147 
+"25820","Hereford, TX Micropolitan Statistical Area",-102.402043,34.835104,19372,0.000063 
+"25860","Hickory-Lenoir-Morganton, NC Metropolitan Statistical Area",-81.396558,35.764448,365497,0.001184 
+"25900","Hilo, HI Micropolitan Statistical Area",-155.421967,19.672838,185079,0.000599 
+"25940","Hilton Head Island-Beaufort, SC Micropolitan Statistical Area",-80.80344,32.337396,187010,0.000606 
+"25980","Hinesville-Fort Stewart, GA Metropolitan Statistical Area",-81.607303,31.818678,77917,0.000252 
+"26020","Hobbs, NM Micropolitan Statistical Area",-103.193824,32.753117,64727,0.00021 
+"26100","Holland-Grand Haven, MI Metropolitan Statistical Area",-86.021338,42.909363,263801,0.000854 
+"26140","Homosassa Springs, FL Micropolitan Statistical Area",-82.453527,28.863598,141236,0.000457 
+"26180","Honolulu, HI Metropolitan Statistical Area",-157.913704,21.372464,953207,0.003087 
+"26220","Hood River, OR Micropolitan Statistical Area",-121.563118,45.655534,22346,0.000072 
+"26260","Hope, AR Micropolitan Statistical Area",-93.54804,33.706058,31606,0.000102 
+"26300","Hot Springs, AR Metropolitan Statistical Area",-93.081833,34.505811,96024,0.000311 
+"26340","Houghton, MI Micropolitan Statistical Area",-88.528197,47.139102,38784,0.000126 
+"26380","Houma-Bayou Cane-Thibodaux, LA Metropolitan Statistical Area",-90.672802,29.633148,208178,0.000674 
+"26420","Houston-Sugar Land-Baytown, TX Metropolitan Statistical Area",-95.420164,29.786379,5946800,0.019261 
+"26460","Hudson, NY Micropolitan Statistical Area",-73.680967,42.273337,63096,0.000204 
+"26480","Humboldt, TN Micropolitan Statistical Area",-88.876464,35.938053,49683,0.000161 
+"26500","Huntingdon, PA Micropolitan Statistical Area",-78.002721,40.424965,45913,0.000149 
+"26540","Huntington, IN Micropolitan Statistical Area",-85.487082,40.870225,37124,0.00012 
+"26580","Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",-82.522143,38.431921,287702,0.000932 
+"26620","Huntsville, AL Metropolitan Statistical Area",-86.677824,34.760114,417593,0.001353 
+"26660","Huntsville, TX Micropolitan Statistical Area",-95.535005,30.729192,67861,0.00022 
+"26700","Huron, SD Micropolitan Statistical Area",-98.226744,44.368345,17398,0.000056 
+"26740","Hutchinson, KS Micropolitan Statistical Area",-97.933019,38.050916,64511,0.000209 
+"26780","Hutchinson, MN Micropolitan Statistical Area",-94.264677,44.859714,36651,0.000119 
+"26820","Idaho Falls, ID Metropolitan Statistical Area",-111.992,43.534224,130374,0.000422 
+"26860","Indiana, PA Micropolitan Statistical Area",-79.129363,40.616038,88880,0.000288 
+"26900","Indianapolis-Carmel, IN Metropolitan Statistical Area",-86.158732,39.786464,1756241,0.005688 
+"26940","Indianola, MS Micropolitan Statistical Area",-90.583975,33.594124,29450,0.000095 
+"26980","Iowa City, IA Metropolitan Statistical Area",-91.577839,41.634554,152586,0.000494 
+"27020","Iron Mountain, MI-WI Micropolitan Statistical Area",-88.046198,45.836366,30591,0.000099 
+"27060","Ithaca, NY Metropolitan Statistical Area",-76.4774,42.460259,101564,0.000329 
+"27100","Jackson, MI Metropolitan Statistical Area",-84.406378,42.241314,160248,0.000519 
+"27140","Jackson, MS Metropolitan Statistical Area",-90.155599,32.291546,539057,0.001746 
+"27180","Jackson, TN Metropolitan Statistical Area",-88.792901,35.618372,115425,0.000374 
+"27220","Jackson, WY-ID Micropolitan Statistical Area",-110.894635,43.558433,31464,0.000102 
+"27260","Jacksonville, FL Metropolitan Statistical Area",-81.632123,30.240552,1345596,0.004358 
+"27300","Jacksonville, IL Micropolitan Statistical Area",-90.261542,39.708674,40902,0.000132 
+"27340","Jacksonville, NC Metropolitan Statistical Area",-77.400646,34.741546,177772,0.000576 
+"27380","Jacksonville, TX Micropolitan Statistical Area",-95.211322,31.904973,50845,0.000165 
+"27420","Jamestown, ND Micropolitan Statistical Area",-98.744689,46.9158,21100,0.000068 
+"27460","Jamestown-Dunkirk-Fredonia, NY Micropolitan Statistical Area",-79.31469,42.246257,134905,0.000437 
+"27500","Janesville, WI Metropolitan Statistical Area",-89.037424,42.651893,160331,0.000519 
+"27540","Jasper, IN Micropolitan Statistical Area",-86.989107,38.372971,54734,0.000177 
+"27620","Jefferson City, MO Metropolitan Statistical Area",-92.162319,38.625172,149807,0.000485 
+"27660","Jennings, LA Micropolitan Statistical Area",-92.738053,30.240195,31594,0.000102 
+"27700","Jesup, GA Micropolitan Statistical Area",-81.919108,31.611857,30099,0.000097 
+"27740","Johnson City, TN Metropolitan Statistical Area",-82.363737,36.30668,198716,0.000644 
+"27780","Johnstown, PA Metropolitan Statistical Area",-78.800021,40.406479,143679,0.000465 
+"27860","Jonesboro, AR Metropolitan Statistical Area",-90.646712,35.787842,121026,0.000392 
+"27900","Joplin, MO Metropolitan Statistical Area",-94.432817,37.060392,175518,0.000568 
+"27940","Juneau, AK Micropolitan Statistical Area",-134.530698,58.358517,31275,0.000101 
+"27980","Kahului-Wailuku, HI Micropolitan Statistical Area",-156.49388,20.863748,154834,0.000501 
+"28020","Kalamazoo-Portage, MI Metropolitan Statistical Area",-85.684156,42.26283,326589,0.001058 
+"28060","Kalispell, MT Micropolitan Statistical Area",-114.279523,48.247205,90928,0.000295 
+"28100","Kankakee-Bradley, IL Metropolitan Statistical Area",-87.850856,41.148582,113449,0.000367 
+"28140","Kansas City, MO-KS Metropolitan Statistical Area",-94.578404,39.020384,2035334,0.006592 
+"28180","Kapaa, HI Micropolitan Statistical Area",-159.442076,22.021022,67091,0.000217 
+"28260","Kearney, NE Micropolitan Statistical Area",-99.060577,40.709116,52591,0.00017 
+"28300","Keene, NH Micropolitan Statistical Area",-72.262788,42.898264,77117,0.00025 
+"28340","Kendallville, IN Micropolitan Statistical Area",-85.391212,41.413892,47536,0.000154 
+"28380","Kennett, MO Micropolitan Statistical Area",-90.059091,36.326744,31953,0.000103 
+"28420","Kennewick-Pasco-Richland, WA Metropolitan Statistical Area",-119.227719,46.25221,253340,0.000821 
+"28500","Kerrville, TX Micropolitan Statistical Area",-99.159799,30.039931,49625,0.000161 
+"28540","Ketchikan, AK Micropolitan Statistical Area",-131.678606,55.367859,13477,0.000044 
+"28580","Key West, FL Micropolitan Statistical Area",-81.263027,24.739678,73090,0.000237 
+"28620","Kill Devil Hills, NC Micropolitan Statistical Area",-75.675009,35.907564,33920,0.00011 
+"28660","Killeen-Temple-Fort Hood, TX Metropolitan Statistical Area",-97.66156,31.113762,405300,0.001313 
+"28700","Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area",-82.409817,36.565404,309544,0.001003 
+"28740","Kingston, NY Metropolitan Statistical Area",-74.100651,41.841064,182493,0.000591 
+"28780","Kingsville, TX Micropolitan Statistical Area",-97.856697,27.487028,32477,0.000105 
+"28820","Kinston, NC Micropolitan Statistical Area",-77.631853,35.262323,59495,0.000193 
+"28860","Kirksville, MO Micropolitan Statistical Area",-92.573531,40.234922,30038,0.000097 
+"28900","Klamath Falls, OR Micropolitan Statistical Area",-121.724834,42.281867,66380,0.000215 
+"28940","Knoxville, TN Metropolitan Statistical Area",-84.020779,35.939032,698030,0.002261 
+"28980","Kodiak, AK Micropolitan Statistical Area",-152.460309,57.779138,13592,0.000044 
+"29020","Kokomo, IN Metropolitan Statistical Area",-86.119656,40.444568,98688,0.00032 
+"29060","Laconia, NH Micropolitan Statistical Area",-71.440669,43.517401,60088,0.000195 
+"29100","La Crosse, WI-MN Metropolitan Statistical Area",-91.241389,43.838518,133665,0.000433 
+"29140","Lafayette, IN Metropolitan Statistical Area",-86.876079,40.440868,201789,0.000654 
+"29180","Lafayette, LA Metropolitan Statistical Area",-92.004034,30.209758,273738,0.000887 
+"29220","La Follette, TN Micropolitan Statistical Area",-84.125902,36.383125,40716,0.000132 
+"29260","La Grande, OR Micropolitan Statistical Area",-118.019475,45.341758,25748,0.000083 
+"29300","LaGrange, GA Micropolitan Statistical Area",-85.031723,33.036737,67044,0.000217 
+"29340","Lake Charles, LA Metropolitan Statistical Area",-93.259809,30.218252,199607,0.000647 
+"29380","Lake City, FL Micropolitan Statistical Area",-82.660558,30.126052,67531,0.000219 
+"29420","Lake Havasu City-Kingman, AZ Metropolitan Statistical Area",-114.248147,35.069679,200186,0.000648 
+"29460","Lakeland-Winter Haven, FL Metropolitan Statistical Area",-81.799985,28.03114,602095,0.00195 
+"29500","Lamesa, TX Micropolitan Statistical Area",-101.94933,32.73465,13833,0.000045 
+"29540","Lancaster, PA Metropolitan Statistical Area",-76.290871,40.073653,519445,0.001682 
+"29580","Lancaster, SC Micropolitan Statistical Area",-80.74735,34.75813,76652,0.000248 
+"29620","Lansing-East Lansing, MI Metropolitan Statistical Area",-84.557412,42.711307,464036,0.001503 
+"29660","Laramie, WY Micropolitan Statistical Area",-105.598285,41.314993,36299,0.000118 
+"29700","Laredo, TX Metropolitan Statistical Area",-99.476354,27.520331,250304,0.000811 
+"29740","Las Cruces, NM Metropolitan Statistical Area",-106.728879,32.247295,209233,0.000678 
+"29780","Las Vegas, NM Micropolitan Statistical Area",-105.309662,35.573297,29393,0.000095 
+"29820","Las Vegas-Paradise, NV Metropolitan Statistical Area",-115.149912,36.143366,1951269,0.00632 
+"29860","Laurel, MS Micropolitan Statistical Area",-89.160959,31.728629,84823,0.000275 
+"29900","Laurinburg, NC Micropolitan Statistical Area",-79.478669,34.786334,36157,0.000117 
+"29940","Lawrence, KS Metropolitan Statistical Area",-95.251352,38.941783,110826,0.000359 
+"29980","Lawrenceburg, TN Micropolitan Statistical Area",-87.355818,35.2351,41869,0.000136 
+"30020","Lawton, OK Metropolitan Statistical Area",-98.421629,34.629215,124098,0.000402 
+"30060","Lebanon, MO Micropolitan Statistical Area",-92.654562,37.669645,35571,0.000115 
+"30100","Lebanon, NH-VT Micropolitan Statistical Area",-72.200572,43.769764,174724,0.000566 
+"30140","Lebanon, PA Metropolitan Statistical Area",-76.442878,40.341616,133568,0.000433 
+"30220","Levelland, TX Micropolitan Statistical Area",-102.334803,33.586416,22935,0.000074 
+"30260","Lewisburg, PA Micropolitan Statistical Area",-76.957762,40.974261,44947,0.000146 
+"30280","Lewisburg, TN Micropolitan Statistical Area",-86.772751,35.488657,30617,0.000099 
+"30300","Lewiston, ID-WA Metropolitan Statistical Area",-116.991924,46.392113,60888,0.000197 
+"30340","Lewiston-Auburn, ME Metropolitan Statistical Area",-70.20132,44.119069,107702,0.000349 
+"30380","Lewistown, PA Micropolitan Statistical Area",-77.61589,40.602422,46682,0.000151 
+"30420","Lexington, NE Micropolitan Statistical Area",-99.856901,40.810207,26370,0.000085 
+"30460","Lexington-Fayette, KY Metropolitan Statistical Area",-84.491215,38.034363,472099,0.001529 
+"30500","Lexington Park, MD Micropolitan Statistical Area",-76.578976,38.307327,105151,0.000341 
+"30580","Liberal, KS Micropolitan Statistical Area",-100.916087,37.052196,22952,0.000074 
+"30620","Lima, OH Metropolitan Statistical Area",-84.121914,40.757676,106331,0.000344 
+"30660","Lincoln, IL Micropolitan Statistical Area",-89.36152,40.140775,30305,0.000098 
+"30700","Lincoln, NE Metropolitan Statistical Area",-96.697533,40.80508,302157,0.000979 
+"30740","Lincolnton, NC Micropolitan Statistical Area",-81.178517,35.485028,78265,0.000253 
+"30780","Little Rock-North Little Rock-Conway, AR Metropolitan Statistical Area",-92.338945,34.80404,699757,0.002266 
+"30820","Lock Haven, PA Micropolitan Statistical Area",-77.45181,41.141257,39238,0.000127 
+"30860","Logan, UT-ID Metropolitan Statistical Area",-111.84383,41.780518,125442,0.000406 
+"30900","Logansport, IN Micropolitan Statistical Area",-86.339634,40.747104,38966,0.000126 
+"30940","London, KY Micropolitan Statistical Area",-84.087836,37.091397,58849,0.000191 
+"30980","Longview, TX Metropolitan Statistical Area",-94.817451,32.459029,214369,0.000694 
+"31020","Longview, WA Metropolitan Statistical Area",-122.900056,46.137731,102410,0.000332 
+"31060","Los Alamos, NM Micropolitan Statistical Area",-106.270303,35.868767,17950,0.000058 
+"31100","Los Angeles-Long Beach-Santa Ana, CA Metropolitan Statistical Area",-118.154817,33.987469,12828837,0.041551 
+"31140","Louisville/Jefferson County, KY-IN Metropolitan Statistical Area",-85.686604,38.215337,1283566,0.004157 
+"31180","Lubbock, TX Metropolitan Statistical Area",-101.876548,33.558916,284890,0.000923 
+"31260","Lufkin, TX Micropolitan Statistical Area",-94.714144,31.312605,86771,0.000281 
+"31300","Lumberton, NC Micropolitan Statistical Area",-79.093871,34.674582,134168,0.000435 
+"31340","Lynchburg, VA Metropolitan Statistical Area",-79.243966,37.355622,252634,0.000818 
+"31380","Macomb, IL Micropolitan Statistical Area",-90.669316,40.469473,32612,0.000106 
+"31420","Macon, GA Metropolitan Statistical Area",-83.697542,32.859805,232293,0.000752 
+"31460","Madera-Chowchilla, CA Metropolitan Statistical Area",-120.006567,37.043099,150865,0.000489 
+"31500","Madison, IN Micropolitan Statistical Area",-85.433679,38.758957,32428,0.000105 
+"31540","Madison, WI Metropolitan Statistical Area",-89.421754,43.109222,568593,0.001842 
+"31580","Madisonville, KY Micropolitan Statistical Area",-87.523134,37.305866,46920,0.000152 
+"31620","Magnolia, AR Micropolitan Statistical Area",-93.247441,33.258046,24552,0.00008 
+"31660","Malone, NY Micropolitan Statistical Area",-74.344498,44.712836,51599,0.000167 
+"31700","Manchester-Nashua, NH Metropolitan Statistical Area",-71.532984,42.87989,400721,0.001298 
+"31740","Manhattan, KS Metropolitan Statistical Area",-96.634903,39.160422,127081,0.000412 
+"31820","Manitowoc, WI Micropolitan Statistical Area",-87.723762,44.104427,81442,0.000264 
+"31860","Mankato-North Mankato, MN Metropolitan Statistical Area",-94.019796,44.17567,96740,0.000313 
+"31900","Mansfield, OH Metropolitan Statistical Area",-82.54038,40.762375,124475,0.000403 
+"31920","Marble Falls, TX Micropolitan Statistical Area",-98.244776,30.671779,42750,0.000138 
+"31940","Marinette, WI-MI Micropolitan Statistical Area",-87.749884,45.264864,65778,0.000213 
+"31980","Marion, IN Micropolitan Statistical Area",-85.644432,40.525254,70061,0.000227 
+"32020","Marion, OH Micropolitan Statistical Area",-83.129151,40.58206,66501,0.000215 
+"32060","Marion-Herrin, IL Micropolitan Statistical Area",-88.975001,37.755675,66357,0.000215 
+"32100","Marquette, MI Micropolitan Statistical Area",-87.49462,46.486961,67077,0.000217 
+"32140","Marshall, MN Micropolitan Statistical Area",-95.795443,44.428428,25857,0.000084 
+"32180","Marshall, MO Micropolitan Statistical Area",-93.204838,39.111933,23370,0.000076 
+"32220","Marshall, TX Micropolitan Statistical Area",-94.412991,32.534968,65631,0.000213 
+"32260","Marshalltown, IA Micropolitan Statistical Area",-92.938418,42.031353,40648,0.000132 
+"32270","Marshfield-Wisconsin Rapids, WI Micropolitan Statistical Area",-89.964242,44.478782,74749,0.000242 
+"32280","Martin, TN Micropolitan Statistical Area",-88.773592,36.292721,35021,0.000113 
+"32300","Martinsville, VA Micropolitan Statistical Area",-79.89536,36.689021,67972,0.00022 
+"32340","Maryville, MO Micropolitan Statistical Area",-94.86794,40.352749,23370,0.000076 
+"32380","Mason City, IA Micropolitan Statistical Area",-93.247092,43.169095,51749,0.000168 
+"32460","Mayfield, KY Micropolitan Statistical Area",-88.650353,36.741213,37121,0.00012 
+"32500","Maysville, KY Micropolitan Statistical Area",-83.593282,38.592574,31360,0.000102 
+"32540","McAlester, OK Micropolitan Statistical Area",-95.719746,34.95799,45837,0.000148 
+"32580","McAllen-Edinburg-Mission, TX Metropolitan Statistical Area",-98.184073,26.232453,774769,0.002509 
+"32620","McComb, MS Micropolitan Statistical Area",-90.529906,31.207218,53535,0.000173 
+"32660","McMinnville, TN Micropolitan Statistical Area",-85.79264,35.695538,39839,0.000129 
+"32700","McPherson, KS Micropolitan Statistical Area",-97.64763,38.381163,29180,0.000095 
+"32740","Meadville, PA Micropolitan Statistical Area",-80.101169,41.665952,88765,0.000288 
+"32780","Medford, OR Metropolitan Statistical Area",-122.858375,42.34699,203206,0.000658 
+"32820","Memphis, TN-MS-AR Metropolitan Statistical Area",-89.890171,35.103614,1316100,0.004263 
+"32860","Menomonie, WI Micropolitan Statistical Area",-91.895126,44.914468,43857,0.000142 
+"32900","Merced, CA Metropolitan Statistical Area",-120.623894,37.281017,255793,0.000828 
+"32940","Meridian, MS Micropolitan Statistical Area",-88.696498,32.38302,107449,0.000348 
+"32980","Merrill, WI Micropolitan Statistical Area",-89.686674,45.285493,28743,0.000093 
+"33020","Mexico, MO Micropolitan Statistical Area",-91.820995,39.205358,25529,0.000083 
+"33060","Miami, OK Micropolitan Statistical Area",-94.837149,36.858051,31848,0.000103 
+"33100","Miami-Fort Lauderdale-Pompano Beach, FL Metropolitan Statistical Area",-80.240069,26.08737,5564635,0.018023 
+"33140","Michigan City-La Porte, IN Metropolitan Statistical Area",-86.790997,41.631838,111467,0.000361 
+"33180","Middlesborough, KY Micropolitan Statistical Area",-83.701354,36.687929,28691,0.000093 
+"33220","Midland, MI Micropolitan Statistical Area",-84.298082,43.642776,83629,0.000271 
+"33260","Midland, TX Metropolitan Statistical Area",-102.106659,32.002749,136872,0.000443 
+"33300","Milledgeville, GA Micropolitan Statistical Area",-83.204006,33.114081,55149,0.000179 
+"33340","Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area",-88.050188,43.075877,1555908,0.005039 
+"33380","Minden, LA Micropolitan Statistical Area",-93.341034,32.700101,41207,0.000133 
+"33420","Mineral Wells, TX Micropolitan Statistical Area",-98.167562,32.778005,28111,0.000091 
+"33460","Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",-93.257032,44.994343,3279833,0.010623 
+"33500","Minot, ND Micropolitan Statistical Area",-101.287258,48.26732,69540,0.000225 
+"33540","Missoula, MT Metropolitan Statistical Area",-114.01897,46.875473,109299,0.000354 
+"33580","Mitchell, SD Micropolitan Statistical Area",-98.003444,43.699341,22835,0.000074 
+"33620","Moberly, MO Micropolitan Statistical Area",-92.451941,39.412907,25414,0.000082 
+"33660","Mobile, AL Metropolitan Statistical Area",-88.170618,30.683994,412992,0.001338 
+"33700","Modesto, CA Metropolitan Statistical Area",-120.955575,37.619148,514453,0.001666 
+"33740","Monroe, LA Metropolitan Statistical Area",-92.165,32.550424,176441,0.000571 
+"33780","Monroe, MI Metropolitan Statistical Area",-83.485685,41.900249,152021,0.000492 
+"33820","Monroe, WI Micropolitan Statistical Area",-89.576075,42.670633,36842,0.000119 
+"33860","Montgomery, AL Metropolitan Statistical Area",-86.287743,32.408302,374536,0.001213 
+"33940","Montrose, CO Micropolitan Statistical Area",-107.934468,38.479142,41276,0.000134 
+"33980","Morehead City, NC Micropolitan Statistical Area",-76.804409,34.746774,66469,0.000215 
+"34020","Morgan City, LA Micropolitan Statistical Area",-91.344868,29.740594,54650,0.000177 
+"34060","Morgantown, WV Metropolitan Statistical Area",-79.886484,39.59983,129709,0.00042 
+"34100","Morristown, TN Metropolitan Statistical Area",-83.386517,36.168754,136608,0.000442 
+"34140","Moscow, ID Micropolitan Statistical Area",-116.934415,46.742969,37244,0.000121 
+"34180","Moses Lake, WA Micropolitan Statistical Area",-119.469558,47.141696,89120,0.000289 
+"34220","Moultrie, GA Micropolitan Statistical Area",-83.768671,31.180956,45498,0.000147 
+"34260","Mountain Home, AR Micropolitan Statistical Area",-92.383941,36.332209,41513,0.000134 
+"34300","Mountain Home, ID Micropolitan Statistical Area",-115.684462,43.115321,27038,0.000088 
+"34340","Mount Airy, NC Micropolitan Statistical Area",-80.656933,36.431315,73673,0.000239 
+"34380","Mount Pleasant, MI Micropolitan Statistical Area",-84.799851,43.607247,70311,0.000228 
+"34420","Mount Pleasant, TX Micropolitan Statistical Area",-94.966833,33.175718,32334,0.000105 
+"34460","Mount Sterling, KY Micropolitan Statistical Area",-83.824919,38.049158,44396,0.000144 
+"34500","Mount Vernon, IL Micropolitan Statistical Area",-88.847668,38.269796,47284,0.000153 
+"34540","Mount Vernon, OH Micropolitan Statistical Area",-82.454629,40.399128,60921,0.000197 
+"34580","Mount Vernon-Anacortes, WA Metropolitan Statistical Area",-122.335869,48.466681,116901,0.000379 
+"34620","Muncie, IN Metropolitan Statistical Area",-85.401955,40.20517,117671,0.000381 
+"34660","Murray, KY Micropolitan Statistical Area",-88.305815,36.620185,37191,0.00012 
+"34700","Muscatine, IA Micropolitan Statistical Area",-91.11708,41.413943,54132,0.000175 
+"34740","Muskegon-Norton Shores, MI Metropolitan Statistical Area",-86.215465,43.244173,172188,0.000558 
+"34780","Muskogee, OK Micropolitan Statistical Area",-95.36836,35.70997,70990,0.00023 
+"34820","Myrtle Beach-North Myrtle Beach-Conway, SC Metropolitan Statistical Area",-78.940068,33.786228,269291,0.000872 
+"34860","Nacogdoches, TX Micropolitan Statistical Area",-94.642791,31.623267,64524,0.000209 
+"34900","Napa, CA Metropolitan Statistical Area",-122.321752,38.329076,136484,0.000442 
+"34940","Naples-Marco Island, FL Metropolitan Statistical Area",-81.699586,26.199831,321520,0.001041 
+"34980","Nashville-Davidson--Murfreesboro--Franklin, TN Metropolitan Statistical Are",-86.675619,36.121596,1589934,0.00515 
+"35020","Natchez, MS-LA Micropolitan Statistical Area",-91.428127,31.565337,53119,0.000172 
+"35060","Natchitoches, LA Micropolitan Statistical Area",-93.097376,31.759483,39566,0.000128 
+"35100","New Bern, NC Micropolitan Statistical Area",-77.036641,35.067612,126802,0.000411 
+"35140","Newberry, SC Micropolitan Statistical Area",-81.575817,34.268079,37508,0.000121 
+"35220","New Castle, IN Micropolitan Statistical Area",-85.403676,39.928644,49462,0.00016 
+"35260","New Castle, PA Micropolitan Statistical Area",-80.336678,40.986593,91108,0.000295 
+"35300","New Haven-Milford, CT Metropolitan Statistical Area",-72.941523,41.396052,862477,0.002793 
+"35340","New Iberia, LA Micropolitan Statistical Area",-91.810242,29.994199,73240,0.000237 
+"35380","New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area",-90.095243,30.040786,1167764,0.003782 
+"35420","New Philadelphia-Dover, OH Micropolitan Statistical Area",-81.465323,40.479556,92582,0.0003 
+"35460","Newport, TN Micropolitan Statistical Area",-83.174758,35.947227,35662,0.000116 
+"35500","Newton, IA Micropolitan Statistical Area",-93.070044,41.678374,36842,0.000119 
+"35580","New Ulm, MN Micropolitan Statistical Area",-94.599156,44.284245,25893,0.000084 
+"35620","New York-Northern New Jersey-Long Island, NY-NJ-PA Metropolitan Statistical",-73.949602,40.729847,18897109,0.061206 
+"35660","Niles-Benton Harbor, MI Metropolitan Statistical Area",-86.407548,41.987514,156813,0.000508 
+"35700","Nogales, AZ Micropolitan Statistical Area",-110.94318,31.434734,47420,0.000154 
+"35740","Norfolk, NE Micropolitan Statistical Area",-97.454624,42.04054,48271,0.000156 
+"35820","North Platte, NE Micropolitan Statistical Area",-100.786212,41.13354,37590,0.000122 
+"35840","North Port-Bradenton-Sarasota, FL Metropolitan Statistical Area",-82.473999,27.331793,702281,0.002275 
+"35860","North Vernon, IN Micropolitan Statistical Area",-85.648821,39.005169,28525,0.000092 
+"35900","North Wilkesboro, NC Micropolitan Statistical Area",-81.13417,36.193059,69340,0.000225 
+"35940","Norwalk, OH Micropolitan Statistical Area",-82.614391,41.175374,59626,0.000193 
+"35980","Norwich-New London, CT Metropolitan Statistical Area",-72.097691,41.443373,274055,0.000888 
+"36020","Oak Harbor, WA Micropolitan Statistical Area",-122.576763,48.206288,78506,0.000254 
+"36060","Oak Hill, WV Micropolitan Statistical Area",-81.133606,38.033101,46039,0.000149 
+"36100","Ocala, FL Metropolitan Statistical Area",-82.123382,29.140116,331298,0.001073 
+"36140","Ocean City, NJ Metropolitan Statistical Area",-74.806974,39.095953,97265,0.000315 
+"36180","Ocean Pines, MD Micropolitan Statistical Area",-75.237934,38.301936,51454,0.000167 
+"36220","Odessa, TX Metropolitan Statistical Area",-102.385795,31.864941,137130,0.000444 
+"36260","Ogden-Clearfield, UT Metropolitan Statistical Area",-111.967965,41.107149,547184,0.001772 
+"36300","Ogdensburg-Massena, NY Micropolitan Statistical Area",-75.149263,44.651458,111944,0.000363 
+"36340","Oil City, PA Micropolitan Statistical Area",-79.766043,41.406083,54984,0.000178 
+"36380","Okeechobee, FL Micropolitan Statistical Area",-80.822166,27.272058,39996,0.00013 
+"36420","Oklahoma City, OK Metropolitan Statistical Area",-97.517838,35.450109,1252987,0.004058 
+"36460","Olean, NY Micropolitan Statistical Area",-78.607814,42.224267,80317,0.00026 
+"36500","Olympia, WA Metropolitan Statistical Area",-122.841,46.999073,252264,0.000817 
+"36540","Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",-96.031505,41.240784,865350,0.002803 
+"36580","Oneonta, NY Micropolitan Statistical Area",-75.059895,42.563532,62259,0.000202 
+"36620","Ontario, OR-ID Micropolitan Statistical Area",-116.992153,43.991874,53936,0.000175 
+"36660","Opelousas-Eunice, LA Micropolitan Statistical Area",-92.111291,30.514029,83384,0.00027 
+"36700","Orangeburg, SC Micropolitan Statistical Area",-80.799194,33.471516,92501,0.0003 
+"36740","Orlando-Kissimmee-Sanford, FL Metropolitan Statistical Area",-81.420795,28.560262,2134411,0.006913 
+"36780","Oshkosh-Neenah, WI Metropolitan Statistical Area",-88.539995,44.100644,166994,0.000541 
+"36820","Oskaloosa, IA Micropolitan Statistical Area",-92.641034,41.31208,22381,0.000072 
+"36860","Ottawa-Streator, IL Micropolitan Statistical Area",-89.029704,41.353351,154908,0.000502 
+"36900","Ottumwa, IA Micropolitan Statistical Area",-92.418403,41.016218,35625,0.000115 
+"36940","Owatonna, MN Micropolitan Statistical Area",-93.21444,44.064305,36576,0.000118 
+"36980","Owensboro, KY Metropolitan Statistical Area",-87.083642,37.737233,114752,0.000372 
+"37020","Owosso, MI Micropolitan Statistical Area",-84.147223,42.942805,70648,0.000229 
+"37060","Oxford, MS Micropolitan Statistical Area",-89.526947,34.361506,47351,0.000153 
+"37100","Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area",-119.025017,34.241989,823318,0.002667 
+"37140","Paducah, KY-IL Micropolitan Statistical Area",-88.657516,37.076601,98762,0.00032 
+"37220","Pahrump, NV Micropolitan Statistical Area",-116.169199,36.468656,43946,0.000142 
+"37260","Palatka, FL Micropolitan Statistical Area",-81.72048,29.609299,74364,0.000241 
+"37300","Palestine, TX Micropolitan Statistical Area",-95.687081,31.776144,58458,0.000189 
+"37340","Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area",-80.69111,28.232195,543376,0.00176 
+"37380","Palm Coast, FL Metropolitan Statistical Area",-81.224737,29.523494,95696,0.00031 
+"37420","Pampa, TX Micropolitan Statistical Area",-100.929238,35.535584,23464,0.000076 
+"37460","Panama City-Lynn Haven-Panama City Beach, FL Metropolitan Statistical Area",-85.660206,30.206925,168852,0.000547 
+"37500","Paragould, AR Micropolitan Statistical Area",-90.523,36.07312,42090,0.000136 
+"37540","Paris, TN Micropolitan Statistical Area",-88.293713,36.319165,32330,0.000105 
+"37580","Paris, TX Micropolitan Statistical Area",-95.535648,33.674176,49793,0.000161 
+"37620","Parkersburg-Marietta-Vienna, WV-OH Metropolitan Statistical Area",-81.502842,39.319928,162056,0.000525 
+"37660","Parsons, KS Micropolitan Statistical Area",-95.260583,37.258236,21607,0.00007 
+"37700","Pascagoula, MS Metropolitan Statistical Area",-88.651246,30.503675,162246,0.000526 
+"37740","Payson, AZ Micropolitan Statistical Area",-111.008927,33.82356,53597,0.000174 
+"37780","Pecos, TX Micropolitan Statistical Area",-103.53282,31.382677,13783,0.000045 
+"37800","Pella, IA Micropolitan Statistical Area",-93.042648,41.354831,33309,0.000108 
+"37820","Pendleton-Hermiston, OR Micropolitan Statistical Area",-119.036916,45.789824,87062,0.000282 
+"37860","Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area",-87.194632,30.506986,448991,0.001454 
+"37900","Peoria, IL Metropolitan Statistical Area",-89.557616,40.711432,379186,0.001228 
+"37940","Peru, IN Micropolitan Statistical Area",-86.073939,40.730651,36903,0.00012 
+"37980","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Statistical Area",-75.243209,39.976657,5965343,0.019321 
+"38020","Phoenix Lake-Cedar Ridge, CA Micropolitan Statistical Area",-120.328508,37.971531,55365,0.000179 
+"38060","Phoenix-Mesa-Glendale, AZ Metropolitan Statistical Area",-112.000978,33.454574,4192887,0.01358 
+"38100","Picayune, MS Micropolitan Statistical Area",-89.63166,30.641969,55834,0.000181 
+"38180","Pierre, SD Micropolitan Statistical Area",-100.324697,44.379775,19988,0.000065 
+"38200","Pierre Part, LA Micropolitan Statistical Area",-91.066472,29.922958,23421,0.000076 
+"38220","Pine Bluff, AR Metropolitan Statistical Area",-92.008086,34.169487,100258,0.000325 
+"38260","Pittsburg, KS Micropolitan Statistical Area",-94.731411,37.439935,39134,0.000127 
+"38300","Pittsburgh, PA Metropolitan Statistical Area",-79.919918,40.436134,2356285,0.007632 
+"38340","Pittsfield, MA Metropolitan Statistical Area",-73.216435,42.460782,131219,0.000425 
+"38380","Plainview, TX Micropolitan Statistical Area",-101.739773,34.145755,36273,0.000117 
+"38420","Platteville, WI Micropolitan Statistical Area",-90.616177,42.82529,51208,0.000166 
+"38460","Plattsburgh, NY Micropolitan Statistical Area",-73.545324,44.730039,82128,0.000266 
+"38500","Plymouth, IN Micropolitan Statistical Area",-86.273059,41.347249,47051,0.000152 
+"38540","Pocatello, ID Metropolitan Statistical Area",-112.45871,42.861089,90656,0.000294 
+"38580","Point Pleasant, WV-OH Micropolitan Statistical Area",-82.173549,38.828676,58258,0.000189 
+"38620","Ponca City, OK Micropolitan Statistical Area",-97.128558,36.745204,46562,0.000151 
+"38700","Pontiac, IL Micropolitan Statistical Area",-88.57323,40.907044,38950,0.000126 
+"38740","Poplar Bluff, MO Micropolitan Statistical Area",-90.413597,36.75379,42794,0.000139 
+"38780","Portales, NM Micropolitan Statistical Area",-103.348218,34.167549,19846,0.000064 
+"38820","Port Angeles, WA Micropolitan Statistical Area",-123.451952,48.094259,71404,0.000231 
+"38860","Portland-South Portland-Biddeford, ME Metropolitan Statistical Area",-70.40409,43.638145,514098,0.001665 
+"38900","Portland-Vancouver-Hillsboro, OR-WA Metropolitan Statistical Area",-122.677088,45.511352,2226009,0.00721 
+"38940","Port St. Lucie, FL Metropolitan Statistical Area",-80.315654,27.271217,424107,0.001374 
+"39020","Portsmouth, OH Micropolitan Statistical Area",-82.945473,38.781629,79499,0.000257 
+"39060","Pottsville, PA Micropolitan Statistical Area",-76.197269,40.713737,148289,0.00048 
+"39100","Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area",-74.06387,41.536973,670301,0.002171 
+"39140","Prescott, AZ Metropolitan Statistical Area",-112.267662,34.629015,211033,0.000684 
+"39220","Price, UT Micropolitan Statistical Area",-110.777266,39.601629,21403,0.000069 
+"39260","Prineville, OR Micropolitan Statistical Area",-120.839363,44.285944,20978,0.000068 
+"39300","Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area",-71.333584,41.767176,1600852,0.005185 
+"39340","Provo-Orem, UT Metropolitan Statistical Area",-111.734847,40.262197,526810,0.001706 
+"39380","Pueblo, CO Metropolitan Statistical Area",-104.645129,38.263685,159063,0.000515 
+"39420","Pullman, WA Micropolitan Statistical Area",-117.221448,46.797297,44776,0.000145 
+"39460","Punta Gorda, FL Metropolitan Statistical Area",-82.119939,26.954793,159978,0.000518 
+"39500","Quincy, IL-MO Micropolitan Statistical Area",-91.371206,39.962538,77314,0.00025 
+"39540","Racine, WI Metropolitan Statistical Area",-87.926099,42.734944,195408,0.000633 
+"39580","Raleigh-Cary, NC Metropolitan Statistical Area",-78.616208,35.775247,1130490,0.003662 
+"39660","Rapid City, SD Metropolitan Statistical Area",-103.228803,44.111396,126382,0.000409 
+"39700","Raymondville, TX Micropolitan Statistical Area",-97.779934,26.452146,22134,0.000072 
+"39740","Reading, PA Metropolitan Statistical Area",-75.908726,40.364227,411442,0.001333 
+"39780","Red Bluff, CA Micropolitan Statistical Area",-122.218755,40.115187,63463,0.000206 
+"39820","Redding, CA Metropolitan Statistical Area",-122.299786,40.580269,177223,0.000574 
+"39860","Red Wing, MN Micropolitan Statistical Area",-92.667398,44.449073,46183,0.00015 
+"39900","Reno-Sparks, NV Metropolitan Statistical Area",-119.79386,39.53418,425417,0.001378 
+"39940","Rexburg, ID Micropolitan Statistical Area",-111.747428,43.870157,50778,0.000164 
+"39980","Richmond, IN Micropolitan Statistical Area",-84.949824,39.842737,68917,0.000223 
+"40060","Richmond, VA Metropolitan Statistical Area",-77.5031,37.519331,1258251,0.004075 
+"40080","Richmond-Berea, KY Micropolitan Statistical Area",-84.297858,37.65079,99972,0.000324 
+"40100","Rio Grande City-Roma, TX Micropolitan Statistical Area",-98.841215,26.388176,60968,0.000197 
+"40140","Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area",-117.206547,33.98822,4224851,0.013684 
+"40180","Riverton, WY Micropolitan Statistical Area",-108.609177,43.013591,40123,0.00013 
+"40220","Roanoke, VA Metropolitan Statistical Area",-79.950546,37.250857,308707,0.001 
+"40260","Roanoke Rapids, NC Micropolitan Statistical Area",-77.604476,36.375829,76790,0.000249 
+"40300","Rochelle, IL Micropolitan Statistical Area",-89.256168,42.028654,53497,0.000173 
+"40340","Rochester, MN Metropolitan Statistical Area",-92.480062,44.056534,186011,0.000602 
+"40380","Rochester, NY Metropolitan Statistical Area",-77.57278,43.112112,1054323,0.003415 
+"40420","Rockford, IL Metropolitan Statistical Area",-89.029647,42.30509,349431,0.001132 
+"40460","Rockingham, NC Micropolitan Statistical Area",-79.733495,34.943605,46639,0.000151 
+"40500","Rockland, ME Micropolitan Statistical Area",-69.162867,44.129786,39736,0.000129 
+"40540","Rock Springs, WY Micropolitan Statistical Area",-109.294973,41.580267,43806,0.000142 
+"40580","Rocky Mount, NC Metropolitan Statistical Area",-77.824567,35.931204,152392,0.000494 
+"40620","Rolla, MO Micropolitan Statistical Area",-91.74867,37.942882,45156,0.000146 
+"40660","Rome, GA Metropolitan Statistical Area",-85.183155,34.255797,96317,0.000312 
+"40700","Roseburg, OR Micropolitan Statistical Area",-123.387062,43.237447,107667,0.000349 
+"40740","Roswell, NM Micropolitan Statistical Area",-104.512634,33.364653,65645,0.000213 
+"40760","Ruidoso, NM Micropolitan Statistical Area",-105.631184,33.420965,20497,0.000066 
+"40780","Russellville, AR Micropolitan Statistical Area",-93.14802,35.259878,83939,0.000272 
+"40820","Ruston, LA Micropolitan Statistical Area",-92.647424,32.479884,63009,0.000204 
+"40860","Rutland, VT Micropolitan Statistical Area",-73.045531,43.601634,61642,0.0002 
+"40900","Sacramento--Arden-Arcade--Roseville, CA Metropolitan Statistical Area",-121.326757,38.631388,2149127,0.006961 
+"40940","Safford, AZ Micropolitan Statistical Area",-109.708327,32.886377,45657,0.000148 
+"40980","Saginaw-Saginaw Township North, MI Metropolitan Statistical Area",-83.99374,43.398201,200169,0.000648 
+"41060","St. Cloud, MN Metropolitan Statistical Area",-94.308326,45.573226,189093,0.000612 
+"41100","St. George, UT Metropolitan Statistical Area",-113.519704,37.135163,138115,0.000447 
+"41140","St. Joseph, MO-KS Metropolitan Statistical Area",-94.788509,39.783315,127329,0.000412 
+"41180","St. Louis, MO-IL Metropolitan Statistical Area",-90.355449,38.647981,2812896,0.009111 
+"41220","St. Marys, GA Micropolitan Statistical Area",-81.635106,30.814166,50513,0.000164 
+"41260","St. Marys, PA Micropolitan Statistical Area",-78.6207,41.419476,31946,0.000103 
+"41420","Salem, OR Metropolitan Statistical Area",-123.004297,44.953671,390738,0.001266 
+"41460","Salina, KS Micropolitan Statistical Area",-97.614151,38.843485,61697,0.0002 
+"41500","Salinas, CA Metropolitan Statistical Area",-121.646434,36.611722,415057,0.001344 
+"41540","Salisbury, MD Metropolitan Statistical Area",-75.626433,38.321108,125203,0.000406 
+"41580","Salisbury, NC Micropolitan Statistical Area",-80.521956,35.620396,138428,0.000448 
+"41620","Salt Lake City, UT Metropolitan Statistical Area",-111.931792,40.644525,1124197,0.003641 
+"41660","San Angelo, TX Metropolitan Statistical Area",-100.465579,31.449618,111823,0.000362 
+"41700","San Antonio-New Braunfels, TX Metropolitan Statistical Area",-98.494545,29.490713,2142508,0.006939 
+"41740","San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area",-117.113136,32.883261,3095313,0.010025 
+"41780","Sandusky, OH Metropolitan Statistical Area",-82.627928,41.405482,77079,0.00025 
+"41820","Sanford, NC Micropolitan Statistical Area",-79.173131,35.45978,57866,0.000187 
+"41860","San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",-122.212105,37.764033,4335391,0.014042 
+"41940","San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area",-121.895273,37.300913,1836911,0.00595 
+"42020","San Luis Obispo-Paso Robles, CA Metropolitan Statistical Area",-120.667817,35.342391,269637,0.000873 
+"42060","Santa Barbara-Santa Maria-Goleta, CA Metropolitan Statistical Area",-120.093457,34.639262,423895,0.001373 
+"42100","Santa Cruz-Watsonville, CA Metropolitan Statistical Area",-121.936794,36.985172,262382,0.00085 
+"42140","Santa Fe, NM Metropolitan Statistical Area",-106.004873,35.630806,144170,0.000467 
+"42220","Santa Rosa-Petaluma, CA Metropolitan Statistical Area",-122.720662,38.41408,483878,0.001567 
+"42300","Sault Ste. Marie, MI Micropolitan Statistical Area",-84.395531,46.367642,38520,0.000125 
+"42340","Savannah, GA Metropolitan Statistical Area",-81.174191,32.069537,347611,0.001126 
+"42380","Sayre, PA Micropolitan Statistical Area",-76.526208,41.829722,62622,0.000203 
+"42420","Scottsbluff, NE Micropolitan Statistical Area",-103.680818,41.859392,37660,0.000122 
+"42460","Scottsboro, AL Micropolitan Statistical Area",-85.938553,34.731985,53227,0.000172 
+"42500","Scottsburg, IN Micropolitan Statistical Area",-85.762727,38.698198,24181,0.000078 
+"42540","Scranton--Wilkes-Barre, PA Metropolitan Statistical Area",-75.818067,41.308651,563631,0.001826 
+"42580","Seaford, DE Micropolitan Statistical Area",-75.346681,38.662388,197145,0.000639 
+"42620","Searcy, AR Micropolitan Statistical Area",-91.767302,35.243736,77076,0.00025 
+"42660","Seattle-Tacoma-Bellevue, WA Metropolitan Statistical Area",-122.263425,47.542018,3439809,0.011141 
+"42680","Sebastian-Vero Beach, FL Metropolitan Statistical Area",-80.440607,27.671828,138028,0.000447 
+"42700","Sebring, FL Micropolitan Statistical Area",-81.442618,27.460415,98786,0.00032 
+"42740","Sedalia, MO Micropolitan Statistical Area",-93.24655,38.702202,42201,0.000137 
+"42780","Selinsgrove, PA Micropolitan Statistical Area",-76.981267,40.786766,39702,0.000129 
+"42820","Selma, AL Micropolitan Statistical Area",-87.034938,32.408815,43820,0.000142 
+"42860","Seneca, SC Micropolitan Statistical Area",-83.00547,34.707762,74273,0.000241 
+"42900","Seneca Falls, NY Micropolitan Statistical Area",-76.828565,42.827354,35251,0.000114 
+"42940","Sevierville, TN Micropolitan Statistical Area",-83.58097,35.861562,89889,0.000291 
+"42980","Seymour, IN Micropolitan Statistical Area",-85.942634,38.925896,42376,0.000137 
+"43060","Shawnee, OK Micropolitan Statistical Area",-96.95182,35.317085,69442,0.000225 
+"43100","Sheboygan, WI Metropolitan Statistical Area",-87.820228,43.733217,115507,0.000374 
+"43140","Shelby, NC Micropolitan Statistical Area",-81.517043,35.292496,98078,0.000318 
+"43180","Shelbyville, TN Micropolitan Statistical Area",-86.464758,35.51241,45058,0.000146 
+"43220","Shelton, WA Micropolitan Statistical Area",-123.036787,47.287955,60699,0.000197 
+"43260","Sheridan, WY Micropolitan Statistical Area",-106.974413,44.781092,29116,0.000094 
+"43300","Sherman-Denison, TX Metropolitan Statistical Area",-96.624649,33.649486,120877,0.000392 
+"43320","Show Low, AZ Micropolitan Statistical Area",-110.212326,34.893626,107449,0.000348 
+"43340","Shreveport-Bossier City, LA Metropolitan Statistical Area",-93.756941,32.472067,398604,0.001291 
+"43380","Sidney, OH Micropolitan Statistical Area",-84.192128,40.318869,49423,0.00016 
+"43420","Sierra Vista-Douglas, AZ Micropolitan Statistical Area",-110.063145,31.607358,131346,0.000425 
+"43460","Sikeston, MO Micropolitan Statistical Area",-89.577831,37.014498,39191,0.000127 
+"43500","Silver City, NM Micropolitan Statistical Area",-108.242725,32.780455,29514,0.000096 
+"43540","Silverthorne, CO Micropolitan Statistical Area",-106.054594,39.573132,27994,0.000091 
+"43580","Sioux City, IA-NE-SD Metropolitan Statistical Area",-96.404481,42.497881,143577,0.000465 
+"43620","Sioux Falls, SD Metropolitan Statistical Area",-96.764139,43.526733,228261,0.000739 
+"43660","Snyder, TX Micropolitan Statistical Area",-100.905316,32.705897,16921,0.000055 
+"43700","Somerset, KY Micropolitan Statistical Area",-84.614631,37.09282,63063,0.000204 
+"43740","Somerset, PA Micropolitan Statistical Area",-79.010338,40.031352,77742,0.000252 
+"43780","South Bend-Mishawaka, IN-MI Metropolitan Statistical Area",-86.197855,41.710878,319224,0.001034 
+"43860","Southern Pines-Pinehurst, NC Micropolitan Statistical Area",-79.446826,35.244618,88247,0.000286 
+"43900","Spartanburg, SC Metropolitan Statistical Area",-82.000174,34.962731,284307,0.000921 
+"43940","Spearfish, SD Micropolitan Statistical Area",-103.800793,44.447051,24097,0.000078 
+"43980","Spencer, IA Micropolitan Statistical Area",-95.159559,43.127315,16667,0.000054 
+"44020","Spirit Lake, IA Micropolitan Statistical Area",-95.133555,43.389624,16667,0.000054 
+"44060","Spokane, WA Metropolitan Statistical Area",-117.370855,47.681187,471221,0.001526 
+"44100","Springfield, IL Metropolitan Statistical Area",-89.661711,39.786329,210170,0.000681 
+"44140","Springfield, MA Metropolitan Statistical Area",-72.573164,42.215091,692942,0.002244 
+"44180","Springfield, MO Metropolitan Statistical Area",-93.264537,37.216164,436712,0.001414 
+"44220","Springfield, OH Metropolitan Statistical Area",-83.832278,39.927147,138333,0.000448 
+"44260","Starkville, MS Micropolitan Statistical Area",-88.82871,33.449232,47671,0.000154 
+"44300","State College, PA Metropolitan Statistical Area",-77.838198,40.841087,153990,0.000499 
+"44340","Statesboro, GA Micropolitan Statistical Area",-81.76246,32.417702,70217,0.000227 
+"44380","Statesville-Mooresville, NC Micropolitan Statistical Area",-80.869121,35.707329,159437,0.000516 
+"44420","Staunton-Waynesboro, VA Micropolitan Statistical Area",-79.017309,38.124065,118502,0.000384 
+"44500","Stephenville, TX Micropolitan Statistical Area",-98.228788,32.206569,37890,0.000123 
+"44540","Sterling, CO Micropolitan Statistical Area",-103.187661,40.6394,22709,0.000074 
+"44580","Sterling, IL Micropolitan Statistical Area",-89.823257,41.780799,58498,0.000189 
+"44600","Steubenville-Weirton, OH-WV Metropolitan Statistical Area",-80.642501,40.38234,124454,0.000403 
+"44620","Stevens Point, WI Micropolitan Statistical Area",-89.526929,44.498175,70019,0.000227 
+"44660","Stillwater, OK Micropolitan Statistical Area",-97.003216,36.091385,77350,0.000251 
+"44700","Stockton, CA Metropolitan Statistical Area",-121.298079,37.931805,685306,0.00222 
+"44740","Storm Lake, IA Micropolitan Statistical Area",-95.181418,42.679153,20260,0.000066 
+"44780","Sturgis, MI Micropolitan Statistical Area",-85.527227,41.888049,61295,0.000199 
+"44860","Sulphur Springs, TX Micropolitan Statistical Area",-95.586937,33.124118,35161,0.000114 
+"44900","Summerville, GA Micropolitan Statistical Area",-85.344154,34.49551,26015,0.000084 
+"44940","Sumter, SC Metropolitan Statistical Area",-80.387317,33.929411,107456,0.000348 
+"44980","Sunbury, PA Micropolitan Statistical Area",-76.682254,40.873395,94528,0.000306 
+"45000","Susanville, CA Micropolitan Statistical Area",-120.579613,40.392397,34895,0.000113 
+"45020","Sweetwater, TX Micropolitan Statistical Area",-100.411692,32.449323,15216,0.000049 
+"45060","Syracuse, NY Metropolitan Statistical Area",-76.144436,43.117848,662577,0.002146 
+"45140","Tahlequah, OK Micropolitan Statistical Area",-94.994172,35.900172,46987,0.000152 
+"45180","Talladega-Sylacauga, AL Micropolitan Statistical Area",-86.169048,33.372084,82291,0.000267 
+"45220","Tallahassee, FL Metropolitan Statistical Area",-84.299327,30.460813,367413,0.00119 
+"45260","Tallulah, LA Micropolitan Statistical Area",-91.196834,32.397649,12093,0.000039 
+"45300","Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area",-82.533881,28.031654,2783243,0.009015 
+"45340","Taos, NM Micropolitan Statistical Area",-105.609327,36.433448,32937,0.000107 
+"45380","Taylorville, IL Micropolitan Statistical Area",-89.254709,39.525298,34800,0.000113 
+"45460","Terre Haute, IN Metropolitan Statistical Area",-87.352132,39.445978,172425,0.000558 
+"45500","Texarkana, TX-Texarkana, AR Metropolitan Statistical Area",-94.134485,33.424872,136027,0.000441 
+"45520","The Dalles, OR Micropolitan Statistical Area",-121.202628,45.536003,25213,0.000082 
+"45540","The Villages, FL Micropolitan Statistical Area",-82.035415,28.825769,93420,0.000303 
+"45580","Thomaston, GA Micropolitan Statistical Area",-84.324388,32.907469,27153,0.000088 
+"45620","Thomasville, GA Micropolitan Statistical Area",-83.948418,30.868962,44720,0.000145 
+"45640","Thomasville-Lexington, NC Micropolitan Statistical Area",-80.199521,35.853744,162878,0.000528 
+"45660","Tiffin, OH Micropolitan Statistical Area",-83.20134,41.127601,56745,0.000184 
+"45700","Tifton, GA Micropolitan Statistical Area",-83.515046,31.454362,40118,0.00013 
+"45740","Toccoa, GA Micropolitan Statistical Area",-83.288687,34.556904,26175,0.000085 
+"45780","Toledo, OH Metropolitan Statistical Area",-83.610038,41.600834,651429,0.00211 
+"45820","Topeka, KS Metropolitan Statistical Area",-95.697617,39.045968,233870,0.000757 
+"45860","Torrington, CT Micropolitan Statistical Area",-73.187411,41.727852,189927,0.000615 
+"45900","Traverse City, MI Micropolitan Statistical Area",-85.623346,44.734638,143372,0.000464 
+"45940","Trenton-Ewing, NJ Metropolitan Statistical Area",-74.700333,40.255567,366513,0.001187 
+"45980","Troy, AL Micropolitan Statistical Area",-85.948661,31.787277,32899,0.000107 
+"46020","Truckee-Grass Valley, CA Micropolitan Statistical Area",-120.91627,39.219524,98764,0.00032 
+"46060","Tucson, AZ Metropolitan Statistical Area",-110.960036,32.216708,980263,0.003175 
+"46100","Tullahoma, TN Micropolitan Statistical Area",-86.13511,35.342858,100210,0.000325 
+"46140","Tulsa, OK Metropolitan Statistical Area",-95.920056,36.106428,937478,0.003036 
+"46180","Tupelo, MS Micropolitan Statistical Area",-88.719216,34.272851,136268,0.000441 
+"46220","Tuscaloosa, AL Metropolitan Statistical Area",-87.544475,33.166863,219461,0.000711 
+"46260","Tuskegee, AL Micropolitan Statistical Area",-85.714998,32.425739,21452,0.000069 
+"46300","Twin Falls, ID Micropolitan Statistical Area",-114.494762,42.589986,99604,0.000323 
+"46340","Tyler, TX Metropolitan Statistical Area",-95.297819,32.326711,209714,0.000679 
+"46380","Ukiah, CA Micropolitan Statistical Area",-123.39749,39.285329,87841,0.000285 
+"46420","Union, SC Micropolitan Statistical Area",-81.625403,34.73195,28961,0.000094 
+"46460","Union City, TN-KY Micropolitan Statistical Area",-89.072596,36.421225,38620,0.000125 
+"46500","Urbana, OH Micropolitan Statistical Area",-83.76028,40.120685,40097,0.00013 
+"46540","Utica-Rome, NY Metropolitan Statistical Area",-75.280716,43.130879,299397,0.00097 
+"46620","Uvalde, TX Micropolitan Statistical Area",-99.754713,29.247671,26405,0.000086 
+"46660","Valdosta, GA Metropolitan Statistical Area",-83.290376,30.863861,139588,0.000452 
+"46700","Vallejo-Fairfield, CA Metropolitan Statistical Area",-122.069158,38.235582,413344,0.001339 
+"46740","Valley, AL Micropolitan Statistical Area",-85.266519,32.86044,34215,0.000111 
+"46780","Van Wert, OH Micropolitan Statistical Area",-84.56553,40.856353,28744,0.000093 
+"46820","Vermillion, SD Micropolitan Statistical Area",-96.9381,42.811175,13864,0.000045 
+"46860","Vernal, UT Micropolitan Statistical Area",-109.597108,40.42648,32588,0.000106 
+"46900","Vernon, TX Micropolitan Statistical Area",-99.296462,34.147319,13535,0.000044 
+"46980","Vicksburg, MS Micropolitan Statistical Area",-90.845229,32.325884,48773,0.000158 
+"47020","Victoria, TX Metropolitan Statistical Area",-96.946842,28.769848,115384,0.000374 
+"47080","Vidalia, GA Micropolitan Statistical Area",-82.408752,32.179766,36346,0.000118 
+"47180","Vincennes, IN Micropolitan Statistical Area",-87.457627,38.698623,38440,0.000125 
+"47220","Vineland-Millville-Bridgeton, NJ Metropolitan Statistical Area",-75.087733,39.428284,156898,0.000508 
+"47260","Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",-76.323438,36.920449,1671683,0.005414 
+"47300","Visalia-Porterville, CA Metropolitan Statistical Area",-119.231702,36.251227,442179,0.001432 
+"47340","Wabash, IN Micropolitan Statistical Area",-85.802367,40.858522,32888,0.000107 
+"47380","Waco, TX Metropolitan Statistical Area",-97.171286,31.541318,234906,0.000761 
+"47420","Wahpeton, ND-MN Micropolitan Statistical Area",-96.698374,46.279198,22897,0.000074 
+"47460","Walla Walla, WA Micropolitan Statistical Area",-118.390267,46.077822,58781,0.00019 
+"47500","Walterboro, SC Micropolitan Statistical Area",-80.655484,32.916003,38892,0.000126 
+"47540","Wapakoneta, OH Micropolitan Statistical Area",-84.269413,40.545245,45949,0.000149 
+"47580","Warner Robins, GA Metropolitan Statistical Area",-83.663346,32.571603,139900,0.000453 
+"47620","Warren, PA Micropolitan Statistical Area",-79.238673,41.851752,41815,0.000135 
+"47660","Warrensburg, MO Micropolitan Statistical Area",-93.770338,38.757209,52595,0.00017 
+"47700","Warsaw, IN Micropolitan Statistical Area",-85.830453,41.266796,77358,0.000251 
+"47780","Washington, IN Micropolitan Statistical Area",-87.098024,38.696964,31648,0.000103 
+"47820","Washington, NC Micropolitan Statistical Area",-76.956602,35.519484,47759,0.000155 
+"47900","Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Statistical Area",-77.18706,38.895009,5582170,0.01808 
+"47920","Washington Court House, OH Micropolitan Statistical Area",-83.443816,39.549717,29030,0.000094 
+"47940","Waterloo-Cedar Falls, IA Metropolitan Statistical Area",-92.399099,42.519128,167819,0.000544 
+"47980","Watertown, SD Micropolitan Statistical Area",-97.133323,44.866416,33130,0.000107 
+"48020","Watertown-Fort Atkinson, WI Micropolitan Statistical Area",-88.784739,43.040167,83686,0.000271 
+"48060","Watertown-Fort Drum, NY Micropolitan Statistical Area",-75.896597,44.019126,116229,0.000376 
+"48100","Wauchula, FL Micropolitan Statistical Area",-81.815441,27.548313,27731,0.00009 
+"48140","Wausau, WI Metropolitan Statistical Area",-89.710864,44.908504,134063,0.000434 
+"48180","Waycross, GA Micropolitan Statistical Area",-82.33506,31.256743,55070,0.000178 
+"48220","Weatherford, OK Micropolitan Statistical Area",-98.839497,35.547405,27469,0.000089 
+"48300","Wenatchee-East Wenatchee, WA Metropolitan Statistical Area",-120.284799,47.523868,110884,0.000359 
+"48460","West Plains, MO Micropolitan Statistical Area",-91.873786,36.793133,40400,0.000131 
+"48500","West Point, MS Micropolitan Statistical Area",-88.692496,33.62459,20634,0.000067 
+"48540","Wheeling, WV-OH Metropolitan Statistical Area",-80.782544,40.027299,147950,0.000479 
+"48580","Whitewater, WI Micropolitan Statistical Area",-88.54073,42.664075,102228,0.000331 
+"48620","Wichita, KS Metropolitan Statistical Area",-97.311759,37.689906,623061,0.002018 
+"48660","Wichita Falls, TX Metropolitan Statistical Area",-98.533433,33.9026,151306,0.00049 
+"48700","Williamsport, PA Metropolitan Statistical Area",-76.984142,41.249889,116111,0.000376 
+"48740","Willimantic, CT Micropolitan Statistical Area",-71.995002,41.804226,118428,0.000384 
+"48780","Williston, ND Micropolitan Statistical Area",-103.56342,48.199801,22398,0.000073 
+"48820","Willmar, MN Micropolitan Statistical Area",-95.016746,45.15505,42239,0.000137 
+"48900","Wilmington, NC Metropolitan Statistical Area",-77.976748,34.196856,362315,0.001174 
+"48940","Wilmington, OH Micropolitan Statistical Area",-83.842296,39.41055,42040,0.000136 
+"48980","Wilson, NC Micropolitan Statistical Area",-77.931314,35.726988,81234,0.000263 
+"49020","Winchester, VA-WV Metropolitan Statistical Area",-78.266456,39.199635,128472,0.000416 
+"49060","Winfield, KS Micropolitan Statistical Area",-96.997749,37.174285,36311,0.000118 
+"49100","Winona, MN Micropolitan Statistical Area",-91.714428,44.023707,51461,0.000167 
+"49180","Winston-Salem, NC Metropolitan Statistical Area",-80.314867,36.12001,477717,0.001547 
+"49260","Woodward, OK Micropolitan Statistical Area",-99.383873,36.426109,20081,0.000065 
+"49300","Wooster, OH Micropolitan Statistical Area",-81.864312,40.838545,114520,0.000371 
+"49340","Worcester, MA Metropolitan Statistical Area",-71.805421,42.303705,798552,0.002586 
+"49380","Worthington, MN Micropolitan Statistical Area",-95.667424,43.636328,21378,0.000069 
+"49420","Yakima, WA Metropolitan Statistical Area",-120.416703,46.515823,243231,0.000788 
+"49460","Yankton, SD Micropolitan Statistical Area",-97.394905,42.902431,22438,0.000073 
+"49540","Yazoo City, MS Micropolitan Statistical Area",-90.380237,32.828491,28065,0.000091 
+"49620","York-Hanover, PA Metropolitan Statistical Area",-76.750877,39.942113,434972,0.001409 
+"49660","Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area",-80.645829,41.164632,565773,0.001832 
+"49700","Yuba City, CA Metropolitan Statistical Area",-121.584726,39.136935,166892,0.000541 
+"49740","Yuma, AZ Metropolitan Statistical Area",-114.598603,32.650041,195751,0.000634 
+"49780","Zanesville, OH Micropolitan Statistical Area",-81.996888,39.961284,86074,0.000279 
+"99999","99999",-90.964729,38.680769,19484223,0.063108 
